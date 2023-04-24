@@ -1,0 +1,9 @@
+Notes from class (24.04.):
+
+Submit something today, through Colab
+Server will likely get a hard reset at 14:30, and announcement will tell us to only use Server for week assignment (till tomorrow night)
+
+0.03 Jessica's Office to drop by
+
+One person can get Colab Pro+
+https://www.frontiersin.org/articles/10.3389/fninf.2021.679838/full — THINGSvision Python package
