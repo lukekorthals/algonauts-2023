@@ -1,3 +1,5 @@
+# ignore venv
+/.conda
 # ignore data folder
 /data
 
