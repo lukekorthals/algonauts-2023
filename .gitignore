@@ -2,6 +2,8 @@
 /.conda
 # ignore data folder
 /data
+# ignore submissions folder
+/submissions
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
