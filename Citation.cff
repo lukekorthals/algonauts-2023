@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite as below."
+authors:
+- family-names: "Korthals"
+  given-names: "Luke"
+- family-names: "Thoms"
+  given-names: "Luca"
+- family-names: "Thoms"
+  given-names: "Luca"
+- family-names: "Blaževski"
+  given-names: "Lucija"
+- family-names: "John"
+  given-names: "Arne"
+- family-names: "van Dijk"
+  given-names: "Mirthe"
+title: "algonauts-2023"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-04-27
+url: "https://github.com/lukekorthals/algonauts-2023"
