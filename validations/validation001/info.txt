@@ -1,0 +1,1 @@
+CLIP Vision Model, all layers, PCA 200, Single layer linear regression, 8-fold cross validation

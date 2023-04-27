@@ -1,0 +1,897 @@
+model,layer,hemisphere,roi,correlation
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,V1v,0.47878475886746996
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,V1d,0.5033671210419657
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,V2v,0.3706908665234714
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,V2d,0.37561155408650193
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,V3v,0.328996674988752
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,V3d,0.34016768692388966
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,hV4,0.26763464561596717
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,EBA,0.17159134917977759
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,FBA-1,0.14382648590714683
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,OFA,0.22694047734955766
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,FFA-1,0.17474585864772577
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,OPA,0.19361680921271002
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,PPA,0.1681759563106999
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,RSC,0.23853612321241524
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,OWFA,0.25403910068214064
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,VWFA-1,0.11461369666645391
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,VWFA-2,0.09207733519268765
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,mfs-words,0.08385436575959382
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,early,0.3370829042540955
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,midventral,0.27546337257341436
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,midlateral,0.23094385959312025
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,midparietal,0.21773732385591774
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,ventral,0.13207455925162184
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,lateral,0.16378537840532642
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,parietal,0.14424771976596623
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,lh,All vertices,0.18623107795930935
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,V1v,0.45207065391589946
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,V1d,0.4628623461653866
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,V2v,0.4098682895058029
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,V2d,0.4155854180716963
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,V3v,0.3396674374767979
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,V3d,0.3578570916647143
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,hV4,0.2814013594713451
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,EBA,0.1517736194308334
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,FBA-1,0.2250228827488194
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,FBA-2,0.15467272801262594
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,OFA,0.21471069591608694
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,FFA-1,0.14040570061060456
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,FFA-2,0.18601383785132763
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,OPA,0.17272159103345155
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,PPA,0.19033222052022994
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,RSC,0.22581295068268772
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,OWFA,0.21324161654618656
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,VWFA-1,0.13438676475211292
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,VWFA-2,0.07960743844976725
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,early,0.36373831369747267
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,midventral,0.2697813553883017
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,midlateral,0.19751610654339607
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,midparietal,0.1974153370292263
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,ventral,0.15973623237980134
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,lateral,0.14538475462317235
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,parietal,0.12884741903610436
+CLIP Vision model PCA 200 Linear Regression,Embedding Layer,rh,All vertices,0.17965548001575574
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,V1v,0.560723104214429
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,V1d,0.5873516875559454
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,V2v,0.46513417096489246
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,V2d,0.47819681279790704
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,V3v,0.4417413145796087
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,V3d,0.44219763194227635
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,hV4,0.35827137473794896
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,EBA,0.28130064696741447
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,FBA-1,0.24332479907959043
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,OFA,0.3270136045924786
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,FFA-1,0.2910995110825626
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,OPA,0.3214267547443842
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,PPA,0.30685284042305216
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,RSC,0.4227653892409787
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,OWFA,0.3397160644514951
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,VWFA-1,0.20572211523974238
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,VWFA-2,0.18141347519247045
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,mfs-words,0.1626114280671222
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,early,0.43627831138722434
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,midventral,0.37077081018102176
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,midlateral,0.317170914230677
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,midparietal,0.33779833374652274
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,ventral,0.2387773092819867
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,lateral,0.27590461332436406
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,parietal,0.258859326955449
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,lh,All vertices,0.2993448444748382
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,V1v,0.5228224501866634
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,V1d,0.543562924665614
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,V2v,0.508092665722731
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,V2d,0.5107602768161983
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,V3v,0.43965039620115176
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,V3d,0.4512771961649756
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,hV4,0.37367399521580075
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,EBA,0.2596936402145831
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,FBA-1,0.31636974849386634
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,FBA-2,0.27975304771269116
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,OFA,0.2892185762737185
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,FFA-1,0.24561278541704287
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,FFA-2,0.33583088442405373
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,OPA,0.2790780660016775
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,PPA,0.35074160268818977
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,RSC,0.40049055040513787
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,OWFA,0.29766911900432375
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,VWFA-1,0.25488730903090284
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,VWFA-2,0.17646792207228212
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,early,0.45519297165253125
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,midventral,0.36656035919930685
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,midlateral,0.2927165960332367
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,midparietal,0.3072653918594358
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,ventral,0.28543515703018385
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,lateral,0.24685378970346444
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,parietal,0.22575074779107232
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 1,rh,All vertices,0.29470305930906754
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,V1v,0.6145381406728202
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,V1d,0.6302532202817218
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,V2v,0.5271136597309022
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,V2d,0.5385568638884635
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,V3v,0.5120944886435648
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,V3d,0.5021323023105743
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,hV4,0.3959298002456478
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,EBA,0.3318800365819688
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,FBA-1,0.2815202320704048
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,OFA,0.36994502522918477
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,FFA-1,0.3405522467891131
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,OPA,0.3622708991220009
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,PPA,0.3420778009941659
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,RSC,0.47129154276668284
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,OWFA,0.38499519393378095
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,VWFA-1,0.24301804243768863
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,VWFA-2,0.2077413567057138
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,mfs-words,0.1830205923119862
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,early,0.4969052996737636
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,midventral,0.41152564335651665
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,midlateral,0.35936404672730143
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,midparietal,0.37881960271375054
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,ventral,0.2708942173578826
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,lateral,0.3245029340503967
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,parietal,0.29869992248541893
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,lh,All vertices,0.3410038460957945
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,V1v,0.579190826880688
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,V1d,0.5964656816372934
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,V2v,0.5665042102398029
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,V2d,0.5603885301871706
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,V3v,0.499999786115075
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,V3d,0.4980854378307074
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,hV4,0.4148064949585903
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,EBA,0.3176506663973974
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,FBA-1,0.33628747726675
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,FBA-2,0.332258076573354
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,OFA,0.3272180287867445
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,FFA-1,0.28763520601689485
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,FFA-2,0.3969033395982224
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,OPA,0.3151188215858232
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,PPA,0.3930732168492659
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,RSC,0.4472249210883732
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,OWFA,0.3316520892810407
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,VWFA-1,0.30221361854370166
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,VWFA-2,0.21709545039107858
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,early,0.5025162642921048
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,midventral,0.4097457965976693
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,midlateral,0.33173693411070515
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,midparietal,0.3455323567527421
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,ventral,0.32546773521016475
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,lateral,0.2968463572917484
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,parietal,0.2608077212316234
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 2,rh,All vertices,0.3407413084201648
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,V1v,0.6067836310676062
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,V1d,0.6278481593070515
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,V2v,0.536385140779708
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,V2d,0.5486616756220644
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,V3v,0.5269248073954412
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,V3d,0.515402455111368
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,hV4,0.4213347621847399
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,EBA,0.3750910268714546
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,FBA-1,0.3092818808087009
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,OFA,0.4001843105148722
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,FFA-1,0.3838582657574221
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,OPA,0.3960539952314699
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,PPA,0.3718457712213187
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,RSC,0.5004268740525337
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,OWFA,0.4188509195527495
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,VWFA-1,0.28304632397859014
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,VWFA-2,0.23062279795257742
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,mfs-words,0.21159955931227462
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,early,0.5056997602001462
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,midventral,0.43407050609545006
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,midlateral,0.3933409844441407
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,midparietal,0.4211677367158395
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,ventral,0.298521730033579
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,lateral,0.36551758450888006
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,parietal,0.3333551328791553
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,lh,All vertices,0.3752295660839261
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,V1v,0.5719499672123799
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,V1d,0.5905594432585667
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,V2v,0.5865751218313442
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,V2d,0.5793957998517986
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,V3v,0.5197640816244031
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,V3d,0.5207915680985262
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,hV4,0.44592556412587414
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,EBA,0.36520564366334785
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,FBA-1,0.3550698791419455
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,FBA-2,0.3701246528591904
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,OFA,0.35968200627588
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,FFA-1,0.3309844089645764
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,FFA-2,0.4414925473252008
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,OPA,0.3507423058208796
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,PPA,0.42887623368963096
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,RSC,0.4742259551993459
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,OWFA,0.36078800064752053
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,VWFA-1,0.3452045397653015
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,VWFA-2,0.2533308331856266
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,early,0.516845997593104
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,midventral,0.43022131777455286
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,midlateral,0.3697397548623551
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,midparietal,0.3846870554960869
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,ventral,0.36171159097396927
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,lateral,0.33568914242601483
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,parietal,0.28995694172762776
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 3,rh,All vertices,0.37763268315831916
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,V1v,0.6008367659441054
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,V1d,0.6227374638980234
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,V2v,0.5446681187643178
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,V2d,0.5574888978893123
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,V3v,0.5374103483967353
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,V3d,0.5307044263037767
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,hV4,0.44502159316534184
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,EBA,0.4244677827499757
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,FBA-1,0.34061808336315724
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,OFA,0.4311976481596388
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,FFA-1,0.42668124782258376
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,OPA,0.4296256748041469
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,PPA,0.3998726121644583
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,RSC,0.5325154267837631
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,OWFA,0.44799399373279003
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,VWFA-1,0.3256598626277122
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,VWFA-2,0.25736156067083055
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,mfs-words,0.2507567112127072
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,early,0.5114080425681812
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,midventral,0.4557062353875476
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,midlateral,0.42596631149730185
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,midparietal,0.4606475794668486
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,ventral,0.33001141410372115
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,lateral,0.41403122847493967
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,parietal,0.37621452355325496
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,lh,All vertices,0.4116331468759613
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,V1v,0.5653822357028402
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,V1d,0.5833292644516931
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,V2v,0.5971637329019381
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,V2d,0.5907658843791023
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,V3v,0.5343939413870844
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,V3d,0.535875123169969
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,hV4,0.47442183742437555
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,EBA,0.4179331655975955
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,FBA-1,0.3731466115208597
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,FBA-2,0.406952665001981
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,OFA,0.39680114377171083
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,FFA-1,0.3694855414604969
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,FFA-2,0.488143896244411
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,OPA,0.390077437518629
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,PPA,0.4668931195059035
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,RSC,0.5052965665748611
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,OWFA,0.39179760609121045
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,VWFA-1,0.39367568564233757
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,VWFA-2,0.2974269388477347
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,early,0.5242993156399066
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,midventral,0.4531611517107268
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,midlateral,0.41256215245488487
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,midparietal,0.42344791082527794
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,ventral,0.40017070644758734
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,lateral,0.3818548269032457
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,parietal,0.32571390654154425
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 4,rh,All vertices,0.414585740693603
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,V1v,0.5788460165197922
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,V1d,0.6041739863086198
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,V2v,0.5387432636735494
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,V2d,0.5492504751340604
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,V3v,0.5318563595816964
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,V3d,0.5274685635396965
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,hV4,0.46046996308734023
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,EBA,0.457600870803656
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,FBA-1,0.368508110001699
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,OFA,0.44571393972022816
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,FFA-1,0.4566498542573103
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,OPA,0.4537693134231401
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,PPA,0.42109882926106945
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,RSC,0.5536019576638349
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,OWFA,0.4597465749482543
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,VWFA-1,0.358253480484699
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,VWFA-2,0.28074465226002004
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,mfs-words,0.2845306001289425
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,early,0.5035979146174328
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,midventral,0.4695627570200792
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,midlateral,0.4434977928934904
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,midparietal,0.4867955725009068
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,ventral,0.35432246463436406
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,lateral,0.4462707576188857
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,parietal,0.40496209101808334
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,lh,All vertices,0.4352392278740476
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,V1v,0.5463283019535312
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,V1d,0.5572837351713591
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,V2v,0.5889823779314824
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,V2d,0.5835728804087348
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,V3v,0.5325452584640673
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,V3d,0.5394443688013324
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,hV4,0.4983775324501572
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,EBA,0.4526072607096989
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,FBA-1,0.39225488043224654
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,FBA-2,0.43765879357518006
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,OFA,0.42559319779605476
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,FFA-1,0.39905694390956736
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,FFA-2,0.5192856233866703
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,OPA,0.41732438370342073
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,PPA,0.4907297246356238
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,RSC,0.5244511272099026
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,OWFA,0.4067952600917535
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,VWFA-1,0.4264844026549168
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,VWFA-2,0.32562727785840173
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,early,0.5160284548462029
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,midventral,0.4607231484346618
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,midlateral,0.4379562823226065
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,midparietal,0.4475006007401382
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,ventral,0.4285566788513839
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,lateral,0.41488936445775393
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,parietal,0.35298097371359216
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 5,rh,All vertices,0.4370019662252776
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,V1v,0.5583517178383215
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,V1d,0.5857581903743719
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,V2v,0.5279919340216609
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,V2d,0.5359948696261091
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,V3v,0.5219705187322726
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,V3d,0.5222354593252825
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,hV4,0.46818944583330374
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,EBA,0.4876525683927674
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,FBA-1,0.3961156814196244
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,OFA,0.44938461421925746
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,FFA-1,0.4816270861146185
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,OPA,0.4753699856967262
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,PPA,0.4408410987025958
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,RSC,0.5744986779513828
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,OWFA,0.46588741120374294
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,VWFA-1,0.3900040986645025
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,VWFA-2,0.3018928150233553
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,mfs-words,0.3093770122616317
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,early,0.49262861670555985
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,midventral,0.478698713990826
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,midlateral,0.4527314821393231
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,midparietal,0.5068631236062465
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,ventral,0.3781783145597025
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,lateral,0.47554375167339774
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,parietal,0.4321150314537102
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,lh,All vertices,0.452813424644614
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,V1v,0.5279400000724151
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,V1d,0.5350637688816727
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,V2v,0.5781816160511761
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,V2d,0.5743055769252053
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,V3v,0.5285208412431618
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,V3d,0.5380100719030251
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,hV4,0.516278812978213
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,EBA,0.4840373581502328
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,FBA-1,0.408789906838768
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,FBA-2,0.46607856689379923
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,OFA,0.44211780983465027
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,FFA-1,0.4268725698430263
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,FFA-2,0.5540639435450307
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,OPA,0.4410074995005896
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,PPA,0.5142015368923255
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,RSC,0.5450127894109751
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,OWFA,0.411954024206653
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,VWFA-1,0.4603765371567598
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,VWFA-2,0.35837042939604724
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,early,0.5050357414480081
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,midventral,0.4611646254865002
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,midlateral,0.45613120548640584
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,midparietal,0.4700416480932239
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,ventral,0.4540829135774659
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,lateral,0.444411986413589
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,parietal,0.379749150357809
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 6,rh,All vertices,0.4549848992320512
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,V1v,0.5408476289122268
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,V1d,0.5681088078978498
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,V2v,0.5198403953531442
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,V2d,0.5254389648871076
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,V3v,0.509354810339161
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,V3d,0.5169324721732886
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,hV4,0.4658586476438556
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,EBA,0.5039895877676834
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,FBA-1,0.41187344144686594
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,OFA,0.4429086875261877
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,FFA-1,0.4933870270379733
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,OPA,0.48745431687452023
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,PPA,0.4562300430316781
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,RSC,0.5913064398067012
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,OWFA,0.4633486751893503
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,VWFA-1,0.4086293541991254
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,VWFA-2,0.3133967049882034
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,mfs-words,0.3256089513817423
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,early,0.48173760399688276
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,midventral,0.4790553721939611
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,midlateral,0.455846414689812
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,midparietal,0.5161357088612686
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,ventral,0.39209651606432205
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,lateral,0.4923225449995438
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,parietal,0.4448286108190039
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,lh,All vertices,0.4601749336475322
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,V1v,0.5112499199671665
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,V1d,0.5156391438257779
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,V2v,0.5670778668773191
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,V2d,0.5637256517333571
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,V3v,0.5243669254221739
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,V3d,0.5342355127418925
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,hV4,0.5203270001014073
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,EBA,0.5007032376525085
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,FBA-1,0.4153737806387683
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,FBA-2,0.47775319004895006
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,OFA,0.448550710844529
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,FFA-1,0.4400387869689964
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,FFA-2,0.5682854396715085
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,OPA,0.45260620615908465
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,PPA,0.5294058523014938
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,RSC,0.5593176991853185
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,OWFA,0.4106401376196848
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,VWFA-1,0.4787221209438302
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,VWFA-2,0.3731499899070584
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,early,0.4934348810156435
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,midventral,0.45668995658573175
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,midlateral,0.46273190561199956
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,midparietal,0.4814098860658079
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,ventral,0.4673720545730655
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,lateral,0.46122798333851256
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,parietal,0.3936831721229482
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 7,rh,All vertices,0.46247685661003796
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,V1v,0.5120521067117092
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,V1d,0.5413300019288405
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,V2v,0.49905519150367394
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,V2d,0.509096338234444
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,V3v,0.48843702417887347
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,V3d,0.501915603023572
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,hV4,0.4596684959137054
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,EBA,0.5183077137917296
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,FBA-1,0.42513217133355596
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,OFA,0.4364701498621673
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,FFA-1,0.500977757444333
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,OPA,0.4936365546745928
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,PPA,0.4634341594400119
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,RSC,0.5970867452077293
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,OWFA,0.4598472944884569
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,VWFA-1,0.41922637824177567
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,VWFA-2,0.32642196380079647
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,mfs-words,0.33276368506632575
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,early,0.46303742831537004
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,midventral,0.4707743232731745
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,midlateral,0.4532128575047513
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,midparietal,0.5182930670263117
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,ventral,0.4001829533985689
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,lateral,0.5062146068630069
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,parietal,0.45202772295003024
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,lh,All vertices,0.46191188124401866
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,V1v,0.48372482445071646
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,V1d,0.4883346574142218
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,V2v,0.548855793886747
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,V2d,0.5480525201255206
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,V3v,0.5104934662560701
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,V3d,0.5224465979502672
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,hV4,0.5159290242731824
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,EBA,0.5153898934922798
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,FBA-1,0.41260755784176595
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,FBA-2,0.49065084987601265
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,OFA,0.4474449682412306
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,FFA-1,0.4501530267309035
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,FFA-2,0.5811801738987697
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,OPA,0.45763516994706827
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,PPA,0.5376318771804529
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,RSC,0.5649396881222212
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,OWFA,0.4018904476052897
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,VWFA-1,0.49237989212636807
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,VWFA-2,0.3831578960230605
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,early,0.4745283333051302
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,midventral,0.4424535304825066
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,midlateral,0.46233683917704926
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,midparietal,0.4840719179200979
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,ventral,0.47453993230344743
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,lateral,0.4759781750124497
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,parietal,0.4007301238374094
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 8,rh,All vertices,0.4628635273654559
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,V1v,0.4809386953887367
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,V1d,0.5127466550162261
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,V2v,0.4796389790451988
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,V2d,0.4829598422529137
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,V3v,0.4635048086334155
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,V3d,0.4727260125903536
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,hV4,0.4411395156764212
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,EBA,0.5212248560062415
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,FBA-1,0.4297163337174193
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,OFA,0.4186453124307793
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,FFA-1,0.5008113049008199
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,OPA,0.4929750778987245
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,PPA,0.46572376370880847
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,RSC,0.5976636131772332
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,OWFA,0.4417116747926397
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,VWFA-1,0.417791500084492
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,VWFA-2,0.331136390550837
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,mfs-words,0.3343805411043362
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,early,0.436650547456245
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,midventral,0.45303675961583834
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,midlateral,0.43613659124507237
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,midparietal,0.5125850706334488
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,ventral,0.403387573379128
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,lateral,0.5108801365185649
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,parietal,0.45277948727591205
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,lh,All vertices,0.45391534778209486
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,V1v,0.4535313642432587
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,V1d,0.45540096665716223
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,V2v,0.5207589227795877
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,V2d,0.5294383952291078
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,V3v,0.4877237298452404
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,V3d,0.5007027569340041
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,hV4,0.5039782067901437
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,EBA,0.5194557715713011
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,FBA-1,0.40925072117626154
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,FBA-2,0.495471368456353
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,OFA,0.4313443964346431
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,FFA-1,0.44865473396027855
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,FFA-2,0.585419921517546
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,OPA,0.45574999214896256
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,PPA,0.5396332976012903
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,RSC,0.5644919674994291
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,OWFA,0.3822731259510017
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,VWFA-1,0.49223500858278296
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,VWFA-2,0.38509866069221843
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,early,0.4480800582654034
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,midventral,0.4188946804903801
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,midlateral,0.45116970008620455
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,midparietal,0.4797330716271835
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,ventral,0.4743226742486254
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,lateral,0.4804420361631423
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,parietal,0.3995320974911796
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 9,rh,All vertices,0.4552861154253428
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,V1v,0.4460490631268449
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,V1d,0.4777590536791324
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,V2v,0.4534086897339143
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,V2d,0.46043374199529785
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,V3v,0.4331096842770621
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,V3d,0.45209567487163826
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,hV4,0.41956613277323274
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,EBA,0.5199226295334468
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,FBA-1,0.43235611345840785
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,OFA,0.39704622108120674
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,FFA-1,0.4953870012725892
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,OPA,0.48542955753186096
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,PPA,0.4632508844216445
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,RSC,0.591777031320093
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,OWFA,0.4179017912617885
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,VWFA-1,0.41227668811119483
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,VWFA-2,0.33297337553224154
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,mfs-words,0.3280491327180626
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,early,0.41173947602315686
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,midventral,0.43052164047430236
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,midlateral,0.4206395626408642
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,midparietal,0.4986800821583549
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,ventral,0.4007691444613489
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,lateral,0.5096416376593338
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,parietal,0.44481412620871186
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,lh,All vertices,0.44212710114443476
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,V1v,0.4277101786366759
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,V1d,0.4246915170505189
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,V2v,0.4971485285836078
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,V2d,0.5040891681374458
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,V3v,0.46801114527457016
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,V3d,0.48036632502024246
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,hV4,0.486366699225594
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,EBA,0.5182987009921772
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,FBA-1,0.3995798214929104
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,FBA-2,0.4945573077859949
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,OFA,0.416329152946355
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,FFA-1,0.4413773186973947
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,FFA-2,0.5849155030446754
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,OPA,0.4497670077552728
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,PPA,0.5357261616573278
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,RSC,0.5586540883646766
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,OWFA,0.3655329564746708
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,VWFA-1,0.48873690095144784
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,VWFA-2,0.3832953008219001
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,early,0.42348970507492234
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,midventral,0.39795775601735645
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,midlateral,0.43874285801871094
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,midparietal,0.46466092346489085
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,ventral,0.46817038449909165
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,lateral,0.482906919568315
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,parietal,0.39379900410944546
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 10,rh,All vertices,0.4447245690448776
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,V1v,0.4348110963714064
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,V1d,0.46731459365915934
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,V2v,0.4464795223063702
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,V2d,0.45598451987377453
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,V3v,0.4244169176820573
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,V3d,0.4474909450792954
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,hV4,0.41414473604143043
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,EBA,0.5151788310198685
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,FBA-1,0.43073386349881965
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,OFA,0.3932290998395306
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,FFA-1,0.49207274996165956
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,OPA,0.4827864409625454
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,PPA,0.4602121363383962
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,RSC,0.5890653351379148
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,OWFA,0.4153756604304485
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,VWFA-1,0.40585715298483227
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,VWFA-2,0.3310945616187162
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,mfs-words,0.3239559490321032
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,early,0.4036768723333578
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,midventral,0.42452340642067926
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,midlateral,0.4152644211098121
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,midparietal,0.49428671088924453
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,ventral,0.39710802276579216
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,lateral,0.5057610937649336
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,parietal,0.4442011970442451
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,lh,All vertices,0.43738473669670014
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,V1v,0.4174999965205723
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,V1d,0.41784494886530654
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,V2v,0.4914802072774841
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,V2d,0.4980554538431364
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,V3v,0.4640740574155735
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,V3d,0.47554914603642323
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,hV4,0.4801397039876564
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,EBA,0.514719560971058
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,FBA-1,0.3953717247695085
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,FBA-2,0.4952807574970606
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,OFA,0.4113321568506253
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,FFA-1,0.4371080335975415
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,FFA-2,0.5841525512552779
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,OPA,0.44724094409841963
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,PPA,0.5310482675911844
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,RSC,0.5549985476724602
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,OWFA,0.3615948631748419
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,VWFA-1,0.48243096372586164
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,VWFA-2,0.38135383873230166
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,early,0.4166335055746786
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,midventral,0.3929451278054721
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,midlateral,0.43484075937411265
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,midparietal,0.45875342784238565
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,ventral,0.46369906730465965
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,lateral,0.4793051569506918
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,parietal,0.391771345078689
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 11,rh,All vertices,0.4404817853520725
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,V1v,0.4329824155786243
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,V1d,0.46129867473942887
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,V2v,0.4459219130917093
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,V2d,0.45391132243039567
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,V3v,0.4244451238654897
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,V3d,0.44222295788396115
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,hV4,0.4123085290717045
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,EBA,0.5084471738603833
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,FBA-1,0.4264639979916674
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,OFA,0.39119020488334827
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,FFA-1,0.4887826065868705
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,OPA,0.47889498557503263
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,PPA,0.45845501596403326
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,RSC,0.5863074102537199
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,OWFA,0.41209345744518017
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,VWFA-1,0.40114406174930695
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,VWFA-2,0.3282359837084675
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,mfs-words,0.3236985686203566
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,early,0.40051183339361257
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,midventral,0.42231010561042304
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,midlateral,0.41049064746395
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,midparietal,0.489763637425168
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,ventral,0.39461853971971894
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,lateral,0.50107498927443
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,parietal,0.438017322154213
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,lh,All vertices,0.43312303091629306
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,V1v,0.4155082568039689
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,V1d,0.4166782031918915
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,V2v,0.4919501993831722
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,V2d,0.49640233570253645
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,V3v,0.4631397422164574
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,V3d,0.47334230116308174
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,hV4,0.4793246732129286
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,EBA,0.5100299111585347
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,FBA-1,0.3897925050712937
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,FBA-2,0.4904079416576527
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,OFA,0.4092426851137638
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,FFA-1,0.43368733058932396
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,FFA-2,0.5797898088653224
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,OPA,0.4435309258935196
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,PPA,0.528986752602401
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,RSC,0.5525277911477943
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,OWFA,0.3589628043061342
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,VWFA-1,0.47681290717249747
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,VWFA-2,0.37943580998595083
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,early,0.4152934406526424
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,midventral,0.39079072749020494
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,midlateral,0.43189836875041293
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,midparietal,0.45593402756928525
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,ventral,0.46071450143277404
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,lateral,0.4754883588837619
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,parietal,0.38704043520064285
+CLIP Vision model PCA 200 Linear Regression,Transformer Layer 12,rh,All vertices,0.43725584494816494
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,V1v,0.4329482854182254
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,V1d,0.4610212850374455
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,V2v,0.44673431753660664
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,V2d,0.45337024026433004
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,V3v,0.42473208153215086
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,V3d,0.4433675123550145
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,hV4,0.4131536670332316
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,EBA,0.5089057572086141
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,FBA-1,0.42617959163459734
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,FBA-2,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,OFA,0.39223272652224
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,FFA-1,0.488134785636014
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,FFA-2,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,OPA,0.47879209545620516
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,PPA,0.4584407151854519
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,RSC,0.586895715197326
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,OWFA,0.4126619120734001
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,VWFA-1,0.4010373282276445
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,VWFA-2,0.3270544979435749
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,mfs-words,0.3234073318125502
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,early,0.4005321255575592
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,midventral,0.42294392841720735
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,midlateral,0.4114162128045798
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,midparietal,0.4895809082619842
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,ventral,0.39442865040426883
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,lateral,0.5012037353328482
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,parietal,0.43888500133281727
+CLIP Vision model PCA 200 Linear Regression,Final Layer,lh,All vertices,0.43337597046952714
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,V1v,0.41459918563412035
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,V1d,0.41558000879757
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,V2v,0.49234984730093645
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,V2d,0.4969622149371481
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,V3v,0.4641564650519915
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,V3d,0.4736438042229996
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,hV4,0.47933171997667345
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,EBA,0.5106286624265821
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,FBA-1,0.390898489652751
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,FBA-2,0.49058162535539895
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,mTL-bodies,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,OFA,0.40853279459401914
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,FFA-1,0.43342678735995965
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,FFA-2,0.5790722452366388
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,mTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,aTL-faces,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,OPA,0.4429520965059814
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,PPA,0.5292572007422314
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,RSC,0.5528085305858841
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,OWFA,0.3584147018649057
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,VWFA-1,0.47693694401266257
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,VWFA-2,0.37949490693644883
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,mfs-words,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,mTL-words,
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,early,0.4150107988651333
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,midventral,0.3903767106028417
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,midlateral,0.431306322189984
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,midparietal,0.45521509316802156
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,ventral,0.4607266532579631
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,lateral,0.47577947908611934
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,parietal,0.38794142875337434
+CLIP Vision model PCA 200 Linear Regression,Final Layer,rh,All vertices,0.43740993715360116
