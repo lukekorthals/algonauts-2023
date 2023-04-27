@@ -1,0 +1,321 @@
+model,layer,hemisphere,roi,correlation
+CLIP Vision + Text,Embedding Layer,lh,V1v,0.46927304778728374
+CLIP Vision + Text,Embedding Layer,lh,V1d,0.4960100899906106
+CLIP Vision + Text,Embedding Layer,lh,V2v,0.3670718999885838
+CLIP Vision + Text,Embedding Layer,lh,V2d,0.371214667948476
+CLIP Vision + Text,Embedding Layer,lh,V3v,0.3299585461628604
+CLIP Vision + Text,Embedding Layer,lh,V3d,0.34897199957446867
+CLIP Vision + Text,Embedding Layer,lh,hV4,0.2847267288431099
+CLIP Vision + Text,Embedding Layer,lh,EBA,0.38938430594765117
+CLIP Vision + Text,Embedding Layer,lh,FBA-1,0.31846338652160167
+CLIP Vision + Text,Embedding Layer,lh,FBA-2,
+CLIP Vision + Text,Embedding Layer,lh,mTL-bodies,
+CLIP Vision + Text,Embedding Layer,lh,OFA,0.2575403402475827
+CLIP Vision + Text,Embedding Layer,lh,FFA-1,0.37400174128967845
+CLIP Vision + Text,Embedding Layer,lh,FFA-2,
+CLIP Vision + Text,Embedding Layer,lh,mTL-faces,
+CLIP Vision + Text,Embedding Layer,lh,aTL-faces,
+CLIP Vision + Text,Embedding Layer,lh,OPA,0.3269892068406858
+CLIP Vision + Text,Embedding Layer,lh,PPA,0.31906477209018846
+CLIP Vision + Text,Embedding Layer,lh,RSC,0.4177333324285577
+CLIP Vision + Text,Embedding Layer,lh,OWFA,0.26280565756117774
+CLIP Vision + Text,Embedding Layer,lh,VWFA-1,0.251607782885421
+CLIP Vision + Text,Embedding Layer,lh,VWFA-2,0.21263112703327627
+CLIP Vision + Text,Embedding Layer,lh,mfs-words,0.19200959597240516
+CLIP Vision + Text,Embedding Layer,lh,mTL-words,
+CLIP Vision + Text,Embedding Layer,lh,early,0.34214860748439885
+CLIP Vision + Text,Embedding Layer,lh,midventral,0.296276720102151
+CLIP Vision + Text,Embedding Layer,lh,midlateral,0.2929850644387081
+CLIP Vision + Text,Embedding Layer,lh,midparietal,0.3272112880361738
+CLIP Vision + Text,Embedding Layer,lh,ventral,0.2683121213068817
+CLIP Vision + Text,Embedding Layer,lh,lateral,0.3773122714982689
+CLIP Vision + Text,Embedding Layer,lh,parietal,0.29354853672484804
+CLIP Vision + Text,Embedding Layer,lh,All vertices,0.31538524982111277
+CLIP Vision + Text,Embedding Layer,rh,V1v,0.4438564485382679
+CLIP Vision + Text,Embedding Layer,rh,V1d,0.45478396512147146
+CLIP Vision + Text,Embedding Layer,rh,V2v,0.4065644353775069
+CLIP Vision + Text,Embedding Layer,rh,V2d,0.4151668572009237
+CLIP Vision + Text,Embedding Layer,rh,V3v,0.3457654700227279
+CLIP Vision + Text,Embedding Layer,rh,V3d,0.3679183923920524
+CLIP Vision + Text,Embedding Layer,rh,hV4,0.3293137347783378
+CLIP Vision + Text,Embedding Layer,rh,EBA,0.3886516982815519
+CLIP Vision + Text,Embedding Layer,rh,FBA-1,0.27973537656117103
+CLIP Vision + Text,Embedding Layer,rh,FBA-2,0.369131792347326
+CLIP Vision + Text,Embedding Layer,rh,mTL-bodies,
+CLIP Vision + Text,Embedding Layer,rh,OFA,0.2577122696714373
+CLIP Vision + Text,Embedding Layer,rh,FFA-1,0.28552233654279296
+CLIP Vision + Text,Embedding Layer,rh,FFA-2,0.460726096383489
+CLIP Vision + Text,Embedding Layer,rh,mTL-faces,
+CLIP Vision + Text,Embedding Layer,rh,aTL-faces,
+CLIP Vision + Text,Embedding Layer,rh,OPA,0.30355165328453493
+CLIP Vision + Text,Embedding Layer,rh,PPA,0.36299639846954945
+CLIP Vision + Text,Embedding Layer,rh,RSC,0.3857015107049791
+CLIP Vision + Text,Embedding Layer,rh,OWFA,0.23861623637430257
+CLIP Vision + Text,Embedding Layer,rh,VWFA-1,0.330149614877931
+CLIP Vision + Text,Embedding Layer,rh,VWFA-2,0.23471072062068535
+CLIP Vision + Text,Embedding Layer,rh,mfs-words,
+CLIP Vision + Text,Embedding Layer,rh,mTL-words,
+CLIP Vision + Text,Embedding Layer,rh,early,0.3677030201473143
+CLIP Vision + Text,Embedding Layer,rh,midventral,0.28710705556077487
+CLIP Vision + Text,Embedding Layer,rh,midlateral,0.31528748330246537
+CLIP Vision + Text,Embedding Layer,rh,midparietal,0.2998667832924793
+CLIP Vision + Text,Embedding Layer,rh,ventral,0.3155070706562302
+CLIP Vision + Text,Embedding Layer,rh,lateral,0.35818029876767826
+CLIP Vision + Text,Embedding Layer,rh,parietal,0.24556984456284459
+CLIP Vision + Text,Embedding Layer,rh,All vertices,0.31624007662651304
+CLIP Vision + Text,Transformer Layer 1,lh,V1v,0.5508423744655271
+CLIP Vision + Text,Transformer Layer 1,lh,V1d,0.5786498254631398
+CLIP Vision + Text,Transformer Layer 1,lh,V2v,0.45949879011520844
+CLIP Vision + Text,Transformer Layer 1,lh,V2d,0.4689012573714487
+CLIP Vision + Text,Transformer Layer 1,lh,V3v,0.43744657960372124
+CLIP Vision + Text,Transformer Layer 1,lh,V3d,0.4376357678889605
+CLIP Vision + Text,Transformer Layer 1,lh,hV4,0.36176422396220964
+CLIP Vision + Text,Transformer Layer 1,lh,EBA,0.4325115925503255
+CLIP Vision + Text,Transformer Layer 1,lh,FBA-1,0.36041911177916003
+CLIP Vision + Text,Transformer Layer 1,lh,FBA-2,
+CLIP Vision + Text,Transformer Layer 1,lh,mTL-bodies,
+CLIP Vision + Text,Transformer Layer 1,lh,OFA,0.3388952855685203
+CLIP Vision + Text,Transformer Layer 1,lh,FFA-1,0.418557756717769
+CLIP Vision + Text,Transformer Layer 1,lh,FFA-2,
+CLIP Vision + Text,Transformer Layer 1,lh,mTL-faces,
+CLIP Vision + Text,Transformer Layer 1,lh,aTL-faces,
+CLIP Vision + Text,Transformer Layer 1,lh,OPA,0.38567791153418246
+CLIP Vision + Text,Transformer Layer 1,lh,PPA,0.37531746179140396
+CLIP Vision + Text,Transformer Layer 1,lh,RSC,0.49403855918314
+CLIP Vision + Text,Transformer Layer 1,lh,OWFA,0.3394103233031691
+CLIP Vision + Text,Transformer Layer 1,lh,VWFA-1,0.3023700882159845
+CLIP Vision + Text,Transformer Layer 1,lh,VWFA-2,0.2480744693672413
+CLIP Vision + Text,Transformer Layer 1,lh,mfs-words,0.23322296689438496
+CLIP Vision + Text,Transformer Layer 1,lh,mTL-words,
+CLIP Vision + Text,Transformer Layer 1,lh,early,0.43132457130625623
+CLIP Vision + Text,Transformer Layer 1,lh,midventral,0.3760825691818901
+CLIP Vision + Text,Transformer Layer 1,lh,midlateral,0.35618568487885505
+CLIP Vision + Text,Transformer Layer 1,lh,midparietal,0.3891731703675783
+CLIP Vision + Text,Transformer Layer 1,lh,ventral,0.31392761777686434
+CLIP Vision + Text,Transformer Layer 1,lh,lateral,0.4219455234766876
+CLIP Vision + Text,Transformer Layer 1,lh,parietal,0.34946307599896914
+CLIP Vision + Text,Transformer Layer 1,lh,All vertices,0.37858997131937866
+CLIP Vision + Text,Transformer Layer 1,rh,V1v,0.5136894446799846
+CLIP Vision + Text,Transformer Layer 1,rh,V1d,0.5350059990682756
+CLIP Vision + Text,Transformer Layer 1,rh,V2v,0.5024785337484199
+CLIP Vision + Text,Transformer Layer 1,rh,V2d,0.5029220910096689
+CLIP Vision + Text,Transformer Layer 1,rh,V3v,0.43531773353185893
+CLIP Vision + Text,Transformer Layer 1,rh,V3d,0.4520703356789394
+CLIP Vision + Text,Transformer Layer 1,rh,hV4,0.40246894200947203
+CLIP Vision + Text,Transformer Layer 1,rh,EBA,0.4316590523914045
+CLIP Vision + Text,Transformer Layer 1,rh,FBA-1,0.3338239872587856
+CLIP Vision + Text,Transformer Layer 1,rh,FBA-2,0.4127718383292826
+CLIP Vision + Text,Transformer Layer 1,rh,mTL-bodies,
+CLIP Vision + Text,Transformer Layer 1,rh,OFA,0.31932258934310886
+CLIP Vision + Text,Transformer Layer 1,rh,FFA-1,0.33779688029458765
+CLIP Vision + Text,Transformer Layer 1,rh,FFA-2,0.5067577823636975
+CLIP Vision + Text,Transformer Layer 1,rh,mTL-faces,
+CLIP Vision + Text,Transformer Layer 1,rh,aTL-faces,
+CLIP Vision + Text,Transformer Layer 1,rh,OPA,0.3559963040091093
+CLIP Vision + Text,Transformer Layer 1,rh,PPA,0.4292180205128493
+CLIP Vision + Text,Transformer Layer 1,rh,RSC,0.46106849826641305
+CLIP Vision + Text,Transformer Layer 1,rh,OWFA,0.31104580651033953
+CLIP Vision + Text,Transformer Layer 1,rh,VWFA-1,0.3820003333889331
+CLIP Vision + Text,Transformer Layer 1,rh,VWFA-2,0.2777111806973284
+CLIP Vision + Text,Transformer Layer 1,rh,mfs-words,
+CLIP Vision + Text,Transformer Layer 1,rh,mTL-words,
+CLIP Vision + Text,Transformer Layer 1,rh,early,0.4502907884519479
+CLIP Vision + Text,Transformer Layer 1,rh,midventral,0.3723486538530252
+CLIP Vision + Text,Transformer Layer 1,rh,midlateral,0.37113468951209283
+CLIP Vision + Text,Transformer Layer 1,rh,midparietal,0.36224763177830743
+CLIP Vision + Text,Transformer Layer 1,rh,ventral,0.3726363829149283
+CLIP Vision + Text,Transformer Layer 1,rh,lateral,0.3986937834483599
+CLIP Vision + Text,Transformer Layer 1,rh,parietal,0.2957690194164946
+CLIP Vision + Text,Transformer Layer 1,rh,All vertices,0.3777765437900784
+CLIP Vision + Text,Transformer Layer 2,lh,V1v,0.6054241020039484
+CLIP Vision + Text,Transformer Layer 2,lh,V1d,0.6225215079403218
+CLIP Vision + Text,Transformer Layer 2,lh,V2v,0.5192692325944606
+CLIP Vision + Text,Transformer Layer 2,lh,V2d,0.5306837617752471
+CLIP Vision + Text,Transformer Layer 2,lh,V3v,0.5064380493731817
+CLIP Vision + Text,Transformer Layer 2,lh,V3d,0.5002661273349457
+CLIP Vision + Text,Transformer Layer 2,lh,hV4,0.3964478141077334
+CLIP Vision + Text,Transformer Layer 2,lh,EBA,0.44685463380696344
+CLIP Vision + Text,Transformer Layer 2,lh,FBA-1,0.36710448089840286
+CLIP Vision + Text,Transformer Layer 2,lh,FBA-2,
+CLIP Vision + Text,Transformer Layer 2,lh,mTL-bodies,
+CLIP Vision + Text,Transformer Layer 2,lh,OFA,0.37900300785798013
+CLIP Vision + Text,Transformer Layer 2,lh,FFA-1,0.4311493244525644
+CLIP Vision + Text,Transformer Layer 2,lh,FFA-2,
+CLIP Vision + Text,Transformer Layer 2,lh,mTL-faces,
+CLIP Vision + Text,Transformer Layer 2,lh,aTL-faces,
+CLIP Vision + Text,Transformer Layer 2,lh,OPA,0.40302135394157107
+CLIP Vision + Text,Transformer Layer 2,lh,PPA,0.38720195396471524
+CLIP Vision + Text,Transformer Layer 2,lh,RSC,0.5183683725572295
+CLIP Vision + Text,Transformer Layer 2,lh,OWFA,0.38323532552613615
+CLIP Vision + Text,Transformer Layer 2,lh,VWFA-1,0.31521097387839614
+CLIP Vision + Text,Transformer Layer 2,lh,VWFA-2,0.2552675700365531
+CLIP Vision + Text,Transformer Layer 2,lh,mfs-words,0.24042928741757894
+CLIP Vision + Text,Transformer Layer 2,lh,mTL-words,
+CLIP Vision + Text,Transformer Layer 2,lh,early,0.4901425151647988
+CLIP Vision + Text,Transformer Layer 2,lh,midventral,0.41309093633241417
+CLIP Vision + Text,Transformer Layer 2,lh,midlateral,0.38611814822358825
+CLIP Vision + Text,Transformer Layer 2,lh,midparietal,0.4106279037403542
+CLIP Vision + Text,Transformer Layer 2,lh,ventral,0.32308431258016845
+CLIP Vision + Text,Transformer Layer 2,lh,lateral,0.43557608812187976
+CLIP Vision + Text,Transformer Layer 2,lh,parietal,0.36293376211570416
+CLIP Vision + Text,Transformer Layer 2,lh,All vertices,0.39917482186905096
+CLIP Vision + Text,Transformer Layer 2,rh,V1v,0.5697441231275067
+CLIP Vision + Text,Transformer Layer 2,rh,V1d,0.5878882163873678
+CLIP Vision + Text,Transformer Layer 2,rh,V2v,0.5601297968801299
+CLIP Vision + Text,Transformer Layer 2,rh,V2d,0.5548483117046876
+CLIP Vision + Text,Transformer Layer 2,rh,V3v,0.49686104607449094
+CLIP Vision + Text,Transformer Layer 2,rh,V3d,0.4971059581729074
+CLIP Vision + Text,Transformer Layer 2,rh,hV4,0.4311798355362912
+CLIP Vision + Text,Transformer Layer 2,rh,EBA,0.44443235878332854
+CLIP Vision + Text,Transformer Layer 2,rh,FBA-1,0.3470539446912598
+CLIP Vision + Text,Transformer Layer 2,rh,FBA-2,0.42868076647036557
+CLIP Vision + Text,Transformer Layer 2,rh,mTL-bodies,
+CLIP Vision + Text,Transformer Layer 2,rh,OFA,0.34777216105166386
+CLIP Vision + Text,Transformer Layer 2,rh,FFA-1,0.3547270784038513
+CLIP Vision + Text,Transformer Layer 2,rh,FFA-2,0.5215327243600024
+CLIP Vision + Text,Transformer Layer 2,rh,mTL-faces,
+CLIP Vision + Text,Transformer Layer 2,rh,aTL-faces,
+CLIP Vision + Text,Transformer Layer 2,rh,OPA,0.3691007492383687
+CLIP Vision + Text,Transformer Layer 2,rh,PPA,0.44601250891381977
+CLIP Vision + Text,Transformer Layer 2,rh,RSC,0.48403921240604963
+CLIP Vision + Text,Transformer Layer 2,rh,OWFA,0.34424868318504337
+CLIP Vision + Text,Transformer Layer 2,rh,VWFA-1,0.39640635102581584
+CLIP Vision + Text,Transformer Layer 2,rh,VWFA-2,0.29018996872665376
+CLIP Vision + Text,Transformer Layer 2,rh,mfs-words,
+CLIP Vision + Text,Transformer Layer 2,rh,mTL-words,
+CLIP Vision + Text,Transformer Layer 2,rh,early,0.49602460026920925
+CLIP Vision + Text,Transformer Layer 2,rh,midventral,0.41491823253825316
+CLIP Vision + Text,Transformer Layer 2,rh,midlateral,0.3910345261343222
+CLIP Vision + Text,Transformer Layer 2,rh,midparietal,0.3824006273238779
+CLIP Vision + Text,Transformer Layer 2,rh,ventral,0.3867592893971014
+CLIP Vision + Text,Transformer Layer 2,rh,lateral,0.40959984374510444
+CLIP Vision + Text,Transformer Layer 2,rh,parietal,0.30914842450863345
+CLIP Vision + Text,Transformer Layer 2,rh,All vertices,0.39879850108685944
+CLIP Vision + Text,Transformer Layer 3,lh,V1v,0.5976316458789438
+CLIP Vision + Text,Transformer Layer 3,lh,V1d,0.6199337309900126
+CLIP Vision + Text,Transformer Layer 3,lh,V2v,0.5293325918823503
+CLIP Vision + Text,Transformer Layer 3,lh,V2d,0.5409310229228428
+CLIP Vision + Text,Transformer Layer 3,lh,V3v,0.519782317160272
+CLIP Vision + Text,Transformer Layer 3,lh,V3d,0.511471004635838
+CLIP Vision + Text,Transformer Layer 3,lh,hV4,0.4185881276959291
+CLIP Vision + Text,Transformer Layer 3,lh,EBA,0.4637416970156921
+CLIP Vision + Text,Transformer Layer 3,lh,FBA-1,0.3767567511959895
+CLIP Vision + Text,Transformer Layer 3,lh,FBA-2,
+CLIP Vision + Text,Transformer Layer 3,lh,mTL-bodies,
+CLIP Vision + Text,Transformer Layer 3,lh,OFA,0.4018880572524013
+CLIP Vision + Text,Transformer Layer 3,lh,FFA-1,0.4454349838063606
+CLIP Vision + Text,Transformer Layer 3,lh,FFA-2,
+CLIP Vision + Text,Transformer Layer 3,lh,mTL-faces,
+CLIP Vision + Text,Transformer Layer 3,lh,aTL-faces,
+CLIP Vision + Text,Transformer Layer 3,lh,OPA,0.4223838037655174
+CLIP Vision + Text,Transformer Layer 3,lh,PPA,0.4009437176494366
+CLIP Vision + Text,Transformer Layer 3,lh,RSC,0.5334352537383238
+CLIP Vision + Text,Transformer Layer 3,lh,OWFA,0.41548347176565786
+CLIP Vision + Text,Transformer Layer 3,lh,VWFA-1,0.3333670325967822
+CLIP Vision + Text,Transformer Layer 3,lh,VWFA-2,0.26727741443596387
+CLIP Vision + Text,Transformer Layer 3,lh,mfs-words,0.2563292725424718
+CLIP Vision + Text,Transformer Layer 3,lh,mTL-words,
+CLIP Vision + Text,Transformer Layer 3,lh,early,0.4976705353905285
+CLIP Vision + Text,Transformer Layer 3,lh,midventral,0.4320192338007165
+CLIP Vision + Text,Transformer Layer 3,lh,midlateral,0.40995575415389107
+CLIP Vision + Text,Transformer Layer 3,lh,midparietal,0.4382260793542713
+CLIP Vision + Text,Transformer Layer 3,lh,ventral,0.33547677675031623
+CLIP Vision + Text,Transformer Layer 3,lh,lateral,0.44810735463875095
+CLIP Vision + Text,Transformer Layer 3,lh,parietal,0.37980242638615547
+CLIP Vision + Text,Transformer Layer 3,lh,All vertices,0.4153650958016771
+CLIP Vision + Text,Transformer Layer 3,rh,V1v,0.5599792916264571
+CLIP Vision + Text,Transformer Layer 3,rh,V1d,0.5807737612025704
+CLIP Vision + Text,Transformer Layer 3,rh,V2v,0.5780949345964552
+CLIP Vision + Text,Transformer Layer 3,rh,V2d,0.5739891929124374
+CLIP Vision + Text,Transformer Layer 3,rh,V3v,0.5128390171714877
+CLIP Vision + Text,Transformer Layer 3,rh,V3d,0.5182838168593545
+CLIP Vision + Text,Transformer Layer 3,rh,hV4,0.45573543947810036
+CLIP Vision + Text,Transformer Layer 3,rh,EBA,0.45873901528401717
+CLIP Vision + Text,Transformer Layer 3,rh,FBA-1,0.36346817172052326
+CLIP Vision + Text,Transformer Layer 3,rh,FBA-2,0.4420085120568637
+CLIP Vision + Text,Transformer Layer 3,rh,mTL-bodies,
+CLIP Vision + Text,Transformer Layer 3,rh,OFA,0.3744939938823907
+CLIP Vision + Text,Transformer Layer 3,rh,FFA-1,0.3702203529460591
+CLIP Vision + Text,Transformer Layer 3,rh,FFA-2,0.5337720214162432
+CLIP Vision + Text,Transformer Layer 3,rh,mTL-faces,
+CLIP Vision + Text,Transformer Layer 3,rh,aTL-faces,
+CLIP Vision + Text,Transformer Layer 3,rh,OPA,0.38714550297240824
+CLIP Vision + Text,Transformer Layer 3,rh,PPA,0.46353941901355555
+CLIP Vision + Text,Transformer Layer 3,rh,RSC,0.4994117900678577
+CLIP Vision + Text,Transformer Layer 3,rh,OWFA,0.3666281306772573
+CLIP Vision + Text,Transformer Layer 3,rh,VWFA-1,0.41311620106842806
+CLIP Vision + Text,Transformer Layer 3,rh,VWFA-2,0.3056729853165233
+CLIP Vision + Text,Transformer Layer 3,rh,mfs-words,
+CLIP Vision + Text,Transformer Layer 3,rh,mTL-words,
+CLIP Vision + Text,Transformer Layer 3,rh,early,0.5095642328916006
+CLIP Vision + Text,Transformer Layer 3,rh,midventral,0.43100866901687007
+CLIP Vision + Text,Transformer Layer 3,rh,midlateral,0.40953609381061185
+CLIP Vision + Text,Transformer Layer 3,rh,midparietal,0.4072583041998025
+CLIP Vision + Text,Transformer Layer 3,rh,ventral,0.4026651957034749
+CLIP Vision + Text,Transformer Layer 3,rh,lateral,0.4220999014595389
+CLIP Vision + Text,Transformer Layer 3,rh,parietal,0.3241450385710438
+CLIP Vision + Text,Transformer Layer 3,rh,All vertices,0.4150577917778875
+CLIP Vision + Text,Transformer Layer 4,lh,V1v,0.5898338682516332
+CLIP Vision + Text,Transformer Layer 4,lh,V1d,0.612065426767329
+CLIP Vision + Text,Transformer Layer 4,lh,V2v,0.5343625880466345
+CLIP Vision + Text,Transformer Layer 4,lh,V2d,0.5469814687285749
+CLIP Vision + Text,Transformer Layer 4,lh,V3v,0.5276575006897359
+CLIP Vision + Text,Transformer Layer 4,lh,V3d,0.5207409080549875
+CLIP Vision + Text,Transformer Layer 4,lh,hV4,0.4388017029722521
+CLIP Vision + Text,Transformer Layer 4,lh,EBA,0.48690233200456373
+CLIP Vision + Text,Transformer Layer 4,lh,FBA-1,0.3943284562450019
+CLIP Vision + Text,Transformer Layer 4,lh,FBA-2,
+CLIP Vision + Text,Transformer Layer 4,lh,mTL-bodies,
+CLIP Vision + Text,Transformer Layer 4,lh,OFA,0.4268103536067905
+CLIP Vision + Text,Transformer Layer 4,lh,FFA-1,0.4686986217146917
+CLIP Vision + Text,Transformer Layer 4,lh,FFA-2,
+CLIP Vision + Text,Transformer Layer 4,lh,mTL-faces,
+CLIP Vision + Text,Transformer Layer 4,lh,aTL-faces,
+CLIP Vision + Text,Transformer Layer 4,lh,OPA,0.44609324910391235
+CLIP Vision + Text,Transformer Layer 4,lh,PPA,0.41960499937046825
+CLIP Vision + Text,Transformer Layer 4,lh,RSC,0.5591303616355682
+CLIP Vision + Text,Transformer Layer 4,lh,OWFA,0.44347977535295835
+CLIP Vision + Text,Transformer Layer 4,lh,VWFA-1,0.3613889937828435
+CLIP Vision + Text,Transformer Layer 4,lh,VWFA-2,0.28480203300501844
+CLIP Vision + Text,Transformer Layer 4,lh,mfs-words,0.28349810800935993
+CLIP Vision + Text,Transformer Layer 4,lh,mTL-words,
+CLIP Vision + Text,Transformer Layer 4,lh,early,0.5004670306486019
+CLIP Vision + Text,Transformer Layer 4,lh,midventral,0.4496635528880974
+CLIP Vision + Text,Transformer Layer 4,lh,midlateral,0.43230235081218044
+CLIP Vision + Text,Transformer Layer 4,lh,midparietal,0.4652304044788484
+CLIP Vision + Text,Transformer Layer 4,lh,ventral,0.3568627367637043
+CLIP Vision + Text,Transformer Layer 4,lh,lateral,0.470132513613156
+CLIP Vision + Text,Transformer Layer 4,lh,parietal,0.40373842812774857
+CLIP Vision + Text,Transformer Layer 4,lh,All vertices,0.4353188768215349
+CLIP Vision + Text,Transformer Layer 4,rh,V1v,0.5528235405893687
+CLIP Vision + Text,Transformer Layer 4,rh,V1d,0.5714739542769927
+CLIP Vision + Text,Transformer Layer 4,rh,V2v,0.5877363503293548
+CLIP Vision + Text,Transformer Layer 4,rh,V2d,0.581875302237608
+CLIP Vision + Text,Transformer Layer 4,rh,V3v,0.5256888918926066
+CLIP Vision + Text,Transformer Layer 4,rh,V3d,0.5297975409765784
+CLIP Vision + Text,Transformer Layer 4,rh,hV4,0.4776072886274662
+CLIP Vision + Text,Transformer Layer 4,rh,EBA,0.48238944526722555
+CLIP Vision + Text,Transformer Layer 4,rh,FBA-1,0.37672335206692503
+CLIP Vision + Text,Transformer Layer 4,rh,FBA-2,0.4629359334895161
+CLIP Vision + Text,Transformer Layer 4,rh,mTL-bodies,
+CLIP Vision + Text,Transformer Layer 4,rh,OFA,0.40661630622362577
+CLIP Vision + Text,Transformer Layer 4,rh,FFA-1,0.3986117746645011
+CLIP Vision + Text,Transformer Layer 4,rh,FFA-2,0.5560452544677759
+CLIP Vision + Text,Transformer Layer 4,rh,mTL-faces,
+CLIP Vision + Text,Transformer Layer 4,rh,aTL-faces,
+CLIP Vision + Text,Transformer Layer 4,rh,OPA,0.40989021709539386
+CLIP Vision + Text,Transformer Layer 4,rh,PPA,0.48596632825936065
+CLIP Vision + Text,Transformer Layer 4,rh,RSC,0.5231862810254881
+CLIP Vision + Text,Transformer Layer 4,rh,OWFA,0.3913636384724129
+CLIP Vision + Text,Transformer Layer 4,rh,VWFA-1,0.44238327660417626
+CLIP Vision + Text,Transformer Layer 4,rh,VWFA-2,0.3305309547226767
+CLIP Vision + Text,Transformer Layer 4,rh,mfs-words,
+CLIP Vision + Text,Transformer Layer 4,rh,mTL-words,
+CLIP Vision + Text,Transformer Layer 4,rh,early,0.5132003282702478
+CLIP Vision + Text,Transformer Layer 4,rh,midventral,0.4476063036384162
+CLIP Vision + Text,Transformer Layer 4,rh,midlateral,0.43005839366731025
+CLIP Vision + Text,Transformer Layer 4,rh,midparietal,0.4308994820904755
+CLIP Vision + Text,Transformer Layer 4,rh,ventral,0.42523340540992843
+CLIP Vision + Text,Transformer Layer 4,rh,lateral,0.44487954720691747
+CLIP Vision + Text,Transformer Layer 4,rh,parietal,0.34729852752388557
+CLIP Vision + Text,Transformer Layer 4,rh,All vertices,0.43514183563871245
