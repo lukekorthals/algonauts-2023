@@ -1,0 +1,897 @@
+model,layer,hemisphere,roi,correlation
+CLIP Text Model,Embedding Layer,lh,V1v,0.1188859995358925
+CLIP Text Model,Embedding Layer,lh,V1d,0.14412382596798196
+CLIP Text Model,Embedding Layer,lh,V2v,0.12566366923534666
+CLIP Text Model,Embedding Layer,lh,V2d,0.1323920590899751
+CLIP Text Model,Embedding Layer,lh,V3v,0.12498880318734823
+CLIP Text Model,Embedding Layer,lh,V3d,0.15662529312991721
+CLIP Text Model,Embedding Layer,lh,hV4,0.15120699456651465
+CLIP Text Model,Embedding Layer,lh,EBA,0.3874560043402753
+CLIP Text Model,Embedding Layer,lh,FBA-1,0.32317887895058156
+CLIP Text Model,Embedding Layer,lh,FBA-2,
+CLIP Text Model,Embedding Layer,lh,mTL-bodies,
+CLIP Text Model,Embedding Layer,lh,OFA,0.14319378774881422
+CLIP Text Model,Embedding Layer,lh,FFA-1,0.36960202446753126
+CLIP Text Model,Embedding Layer,lh,FFA-2,
+CLIP Text Model,Embedding Layer,lh,mTL-faces,
+CLIP Text Model,Embedding Layer,lh,aTL-faces,
+CLIP Text Model,Embedding Layer,lh,OPA,0.3010294172576748
+CLIP Text Model,Embedding Layer,lh,PPA,0.3192056895639911
+CLIP Text Model,Embedding Layer,lh,RSC,0.40155197762624883
+CLIP Text Model,Embedding Layer,lh,OWFA,0.10776871077726084
+CLIP Text Model,Embedding Layer,lh,VWFA-1,0.24259551510487237
+CLIP Text Model,Embedding Layer,lh,VWFA-2,0.2240973246333259
+CLIP Text Model,Embedding Layer,lh,mfs-words,0.19750031922735478
+CLIP Text Model,Embedding Layer,lh,mTL-words,
+CLIP Text Model,Embedding Layer,lh,early,0.12014255800155768
+CLIP Text Model,Embedding Layer,lh,midventral,0.17267419187433442
+CLIP Text Model,Embedding Layer,lh,midlateral,0.16586805340730287
+CLIP Text Model,Embedding Layer,lh,midparietal,0.2607045892689899
+CLIP Text Model,Embedding Layer,lh,ventral,0.26762506243065354
+CLIP Text Model,Embedding Layer,lh,lateral,0.37328989257986567
+CLIP Text Model,Embedding Layer,lh,parietal,0.2866469798157359
+CLIP Text Model,Embedding Layer,lh,All vertices,0.22324298896146294
+CLIP Text Model,Embedding Layer,rh,V1v,0.11671533567397016
+CLIP Text Model,Embedding Layer,rh,V1d,0.1295452265530963
+CLIP Text Model,Embedding Layer,rh,V2v,0.12431537152084096
+CLIP Text Model,Embedding Layer,rh,V2d,0.16280713529609556
+CLIP Text Model,Embedding Layer,rh,V3v,0.12657665407077306
+CLIP Text Model,Embedding Layer,rh,V3d,0.1697075075378365
+CLIP Text Model,Embedding Layer,rh,hV4,0.21609593665541255
+CLIP Text Model,Embedding Layer,rh,EBA,0.38693331562693134
+CLIP Text Model,Embedding Layer,rh,FBA-1,0.23517764191278473
+CLIP Text Model,Embedding Layer,rh,FBA-2,0.37159412504134953
+CLIP Text Model,Embedding Layer,rh,mTL-bodies,
+CLIP Text Model,Embedding Layer,rh,OFA,0.18385022095448394
+CLIP Text Model,Embedding Layer,rh,FFA-1,0.2759707766317663
+CLIP Text Model,Embedding Layer,rh,FFA-2,0.45968500470276463
+CLIP Text Model,Embedding Layer,rh,mTL-faces,
+CLIP Text Model,Embedding Layer,rh,aTL-faces,
+CLIP Text Model,Embedding Layer,rh,OPA,0.278583310848876
+CLIP Text Model,Embedding Layer,rh,PPA,0.3556969169839247
+CLIP Text Model,Embedding Layer,rh,RSC,0.3681701716085487
+CLIP Text Model,Embedding Layer,rh,OWFA,0.09658185529132533
+CLIP Text Model,Embedding Layer,rh,VWFA-1,0.325615677850063
+CLIP Text Model,Embedding Layer,rh,VWFA-2,0.24359833518830998
+CLIP Text Model,Embedding Layer,rh,mfs-words,
+CLIP Text Model,Embedding Layer,rh,mTL-words,
+CLIP Text Model,Embedding Layer,rh,early,0.11988111173278154
+CLIP Text Model,Embedding Layer,rh,midventral,0.11986283740550706
+CLIP Text Model,Embedding Layer,rh,midlateral,0.23663405067254797
+CLIP Text Model,Embedding Layer,rh,midparietal,0.2284419582573532
+CLIP Text Model,Embedding Layer,rh,ventral,0.3000686238869189
+CLIP Text Model,Embedding Layer,rh,lateral,0.35190667530615255
+CLIP Text Model,Embedding Layer,rh,parietal,0.24151286468761032
+CLIP Text Model,Embedding Layer,rh,All vertices,0.22486673053837813
+CLIP Text Model,Transformer Layer 1,lh,V1v,0.13913941589570902
+CLIP Text Model,Transformer Layer 1,lh,V1d,0.15761293249442135
+CLIP Text Model,Transformer Layer 1,lh,V2v,0.13928192008295287
+CLIP Text Model,Transformer Layer 1,lh,V2d,0.14573744357362728
+CLIP Text Model,Transformer Layer 1,lh,V3v,0.13342872538500278
+CLIP Text Model,Transformer Layer 1,lh,V3d,0.1698685654907919
+CLIP Text Model,Transformer Layer 1,lh,hV4,0.16690272612131496
+CLIP Text Model,Transformer Layer 1,lh,EBA,0.4157544192308791
+CLIP Text Model,Transformer Layer 1,lh,FBA-1,0.35097842508432825
+CLIP Text Model,Transformer Layer 1,lh,FBA-2,
+CLIP Text Model,Transformer Layer 1,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 1,lh,OFA,0.15850083452495356
+CLIP Text Model,Transformer Layer 1,lh,FFA-1,0.39535802598832054
+CLIP Text Model,Transformer Layer 1,lh,FFA-2,
+CLIP Text Model,Transformer Layer 1,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 1,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 1,lh,OPA,0.3322742499833068
+CLIP Text Model,Transformer Layer 1,lh,PPA,0.3495580245031687
+CLIP Text Model,Transformer Layer 1,lh,RSC,0.4480544153570108
+CLIP Text Model,Transformer Layer 1,lh,OWFA,0.11955945294756415
+CLIP Text Model,Transformer Layer 1,lh,VWFA-1,0.27227812722600275
+CLIP Text Model,Transformer Layer 1,lh,VWFA-2,0.24849690541453595
+CLIP Text Model,Transformer Layer 1,lh,mfs-words,0.21981719818349463
+CLIP Text Model,Transformer Layer 1,lh,mTL-words,
+CLIP Text Model,Transformer Layer 1,lh,early,0.1323793682969089
+CLIP Text Model,Transformer Layer 1,lh,midventral,0.19118855980930533
+CLIP Text Model,Transformer Layer 1,lh,midlateral,0.1783354372772938
+CLIP Text Model,Transformer Layer 1,lh,midparietal,0.28433712502804787
+CLIP Text Model,Transformer Layer 1,lh,ventral,0.2933898233450182
+CLIP Text Model,Transformer Layer 1,lh,lateral,0.4034271229281478
+CLIP Text Model,Transformer Layer 1,lh,parietal,0.3152969013213215
+CLIP Text Model,Transformer Layer 1,lh,All vertices,0.24807152480202693
+CLIP Text Model,Transformer Layer 1,rh,V1v,0.13043315119804927
+CLIP Text Model,Transformer Layer 1,rh,V1d,0.14296930235800803
+CLIP Text Model,Transformer Layer 1,rh,V2v,0.13844099136983773
+CLIP Text Model,Transformer Layer 1,rh,V2d,0.1817700460498945
+CLIP Text Model,Transformer Layer 1,rh,V3v,0.1379586666587809
+CLIP Text Model,Transformer Layer 1,rh,V3d,0.187837278824055
+CLIP Text Model,Transformer Layer 1,rh,hV4,0.24055107120496283
+CLIP Text Model,Transformer Layer 1,rh,EBA,0.4136882667399204
+CLIP Text Model,Transformer Layer 1,rh,FBA-1,0.2577804020934424
+CLIP Text Model,Transformer Layer 1,rh,FBA-2,0.39886649528793783
+CLIP Text Model,Transformer Layer 1,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 1,rh,OFA,0.2073129559984876
+CLIP Text Model,Transformer Layer 1,rh,FFA-1,0.30513683155824706
+CLIP Text Model,Transformer Layer 1,rh,FFA-2,0.48806762139315807
+CLIP Text Model,Transformer Layer 1,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 1,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 1,rh,OPA,0.30426363171113896
+CLIP Text Model,Transformer Layer 1,rh,PPA,0.38896570848893514
+CLIP Text Model,Transformer Layer 1,rh,RSC,0.4113930323252206
+CLIP Text Model,Transformer Layer 1,rh,OWFA,0.10508778177709086
+CLIP Text Model,Transformer Layer 1,rh,VWFA-1,0.3592934623731322
+CLIP Text Model,Transformer Layer 1,rh,VWFA-2,0.2672930548254431
+CLIP Text Model,Transformer Layer 1,rh,mfs-words,
+CLIP Text Model,Transformer Layer 1,rh,mTL-words,
+CLIP Text Model,Transformer Layer 1,rh,early,0.1328870088665843
+CLIP Text Model,Transformer Layer 1,rh,midventral,0.1280297422036659
+CLIP Text Model,Transformer Layer 1,rh,midlateral,0.2575050255848866
+CLIP Text Model,Transformer Layer 1,rh,midparietal,0.24981628157696603
+CLIP Text Model,Transformer Layer 1,rh,ventral,0.3297889560080327
+CLIP Text Model,Transformer Layer 1,rh,lateral,0.3766513148255915
+CLIP Text Model,Transformer Layer 1,rh,parietal,0.2684939343827073
+CLIP Text Model,Transformer Layer 1,rh,All vertices,0.24932861553369265
+CLIP Text Model,Transformer Layer 2,lh,V1v,0.1388229373550625
+CLIP Text Model,Transformer Layer 2,lh,V1d,0.15978192273057415
+CLIP Text Model,Transformer Layer 2,lh,V2v,0.1416415118448601
+CLIP Text Model,Transformer Layer 2,lh,V2d,0.14615098246970532
+CLIP Text Model,Transformer Layer 2,lh,V3v,0.1393080862100004
+CLIP Text Model,Transformer Layer 2,lh,V3d,0.17196907819039936
+CLIP Text Model,Transformer Layer 2,lh,hV4,0.17098072859652472
+CLIP Text Model,Transformer Layer 2,lh,EBA,0.4205658781855912
+CLIP Text Model,Transformer Layer 2,lh,FBA-1,0.3556008545518566
+CLIP Text Model,Transformer Layer 2,lh,FBA-2,
+CLIP Text Model,Transformer Layer 2,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 2,lh,OFA,0.16182238426067289
+CLIP Text Model,Transformer Layer 2,lh,FFA-1,0.4017966262153299
+CLIP Text Model,Transformer Layer 2,lh,FFA-2,
+CLIP Text Model,Transformer Layer 2,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 2,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 2,lh,OPA,0.33722409808476234
+CLIP Text Model,Transformer Layer 2,lh,PPA,0.3551418180903677
+CLIP Text Model,Transformer Layer 2,lh,RSC,0.45828895931937835
+CLIP Text Model,Transformer Layer 2,lh,OWFA,0.12435475565811067
+CLIP Text Model,Transformer Layer 2,lh,VWFA-1,0.27673100523716504
+CLIP Text Model,Transformer Layer 2,lh,VWFA-2,0.25208496243721995
+CLIP Text Model,Transformer Layer 2,lh,mfs-words,0.2261060721193869
+CLIP Text Model,Transformer Layer 2,lh,mTL-words,
+CLIP Text Model,Transformer Layer 2,lh,early,0.13460830116667052
+CLIP Text Model,Transformer Layer 2,lh,midventral,0.19403272661169377
+CLIP Text Model,Transformer Layer 2,lh,midlateral,0.18244994291023758
+CLIP Text Model,Transformer Layer 2,lh,midparietal,0.28591403036163565
+CLIP Text Model,Transformer Layer 2,lh,ventral,0.296994733776023
+CLIP Text Model,Transformer Layer 2,lh,lateral,0.4097559712798808
+CLIP Text Model,Transformer Layer 2,lh,parietal,0.3193507152560712
+CLIP Text Model,Transformer Layer 2,lh,All vertices,0.2512538608381288
+CLIP Text Model,Transformer Layer 2,rh,V1v,0.1300238634211015
+CLIP Text Model,Transformer Layer 2,rh,V1d,0.14703380215536904
+CLIP Text Model,Transformer Layer 2,rh,V2v,0.1401099002542099
+CLIP Text Model,Transformer Layer 2,rh,V2d,0.1843274836701592
+CLIP Text Model,Transformer Layer 2,rh,V3v,0.1423937153836664
+CLIP Text Model,Transformer Layer 2,rh,V3d,0.1887156504841827
+CLIP Text Model,Transformer Layer 2,rh,hV4,0.24105226642133404
+CLIP Text Model,Transformer Layer 2,rh,EBA,0.4198140664002114
+CLIP Text Model,Transformer Layer 2,rh,FBA-1,0.2561079671200806
+CLIP Text Model,Transformer Layer 2,rh,FBA-2,0.40597882083020526
+CLIP Text Model,Transformer Layer 2,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 2,rh,OFA,0.21090949663110384
+CLIP Text Model,Transformer Layer 2,rh,FFA-1,0.3117107533452217
+CLIP Text Model,Transformer Layer 2,rh,FFA-2,0.49442211126322155
+CLIP Text Model,Transformer Layer 2,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 2,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 2,rh,OPA,0.30809107943480957
+CLIP Text Model,Transformer Layer 2,rh,PPA,0.3952244747755874
+CLIP Text Model,Transformer Layer 2,rh,RSC,0.42185906923194916
+CLIP Text Model,Transformer Layer 2,rh,OWFA,0.11063987110716178
+CLIP Text Model,Transformer Layer 2,rh,VWFA-1,0.3654812816093066
+CLIP Text Model,Transformer Layer 2,rh,VWFA-2,0.27615661588852963
+CLIP Text Model,Transformer Layer 2,rh,mfs-words,
+CLIP Text Model,Transformer Layer 2,rh,mTL-words,
+CLIP Text Model,Transformer Layer 2,rh,early,0.13542068463795517
+CLIP Text Model,Transformer Layer 2,rh,midventral,0.13382680248380724
+CLIP Text Model,Transformer Layer 2,rh,midlateral,0.25932409898129893
+CLIP Text Model,Transformer Layer 2,rh,midparietal,0.25254300375940775
+CLIP Text Model,Transformer Layer 2,rh,ventral,0.3339193092402441
+CLIP Text Model,Transformer Layer 2,rh,lateral,0.3825758089134173
+CLIP Text Model,Transformer Layer 2,rh,parietal,0.2733673373890276
+CLIP Text Model,Transformer Layer 2,rh,All vertices,0.25310600665832905
+CLIP Text Model,Transformer Layer 3,lh,V1v,0.14187572425443876
+CLIP Text Model,Transformer Layer 3,lh,V1d,0.15680379991768661
+CLIP Text Model,Transformer Layer 3,lh,V2v,0.1434209161443996
+CLIP Text Model,Transformer Layer 3,lh,V2d,0.14535263825004735
+CLIP Text Model,Transformer Layer 3,lh,V3v,0.14253464465461704
+CLIP Text Model,Transformer Layer 3,lh,V3d,0.168584611636051
+CLIP Text Model,Transformer Layer 3,lh,hV4,0.17284580103761563
+CLIP Text Model,Transformer Layer 3,lh,EBA,0.4247802567404743
+CLIP Text Model,Transformer Layer 3,lh,FBA-1,0.35833413836664857
+CLIP Text Model,Transformer Layer 3,lh,FBA-2,
+CLIP Text Model,Transformer Layer 3,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 3,lh,OFA,0.16371644451583606
+CLIP Text Model,Transformer Layer 3,lh,FFA-1,0.4033566349969208
+CLIP Text Model,Transformer Layer 3,lh,FFA-2,
+CLIP Text Model,Transformer Layer 3,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 3,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 3,lh,OPA,0.33953649696590127
+CLIP Text Model,Transformer Layer 3,lh,PPA,0.35778524755345525
+CLIP Text Model,Transformer Layer 3,lh,RSC,0.46220205004570086
+CLIP Text Model,Transformer Layer 3,lh,OWFA,0.12640883484097323
+CLIP Text Model,Transformer Layer 3,lh,VWFA-1,0.27968117194474384
+CLIP Text Model,Transformer Layer 3,lh,VWFA-2,0.2576480073412636
+CLIP Text Model,Transformer Layer 3,lh,mfs-words,0.23068033796710846
+CLIP Text Model,Transformer Layer 3,lh,mTL-words,
+CLIP Text Model,Transformer Layer 3,lh,early,0.13530150130971366
+CLIP Text Model,Transformer Layer 3,lh,midventral,0.19561621047180647
+CLIP Text Model,Transformer Layer 3,lh,midlateral,0.18190450420848453
+CLIP Text Model,Transformer Layer 3,lh,midparietal,0.2883838791187155
+CLIP Text Model,Transformer Layer 3,lh,ventral,0.2999479554709722
+CLIP Text Model,Transformer Layer 3,lh,lateral,0.4130968243751227
+CLIP Text Model,Transformer Layer 3,lh,parietal,0.32198301117745176
+CLIP Text Model,Transformer Layer 3,lh,All vertices,0.2542451757271276
+CLIP Text Model,Transformer Layer 3,rh,V1v,0.13231497315427454
+CLIP Text Model,Transformer Layer 3,rh,V1d,0.14483068857187753
+CLIP Text Model,Transformer Layer 3,rh,V2v,0.1421600790984609
+CLIP Text Model,Transformer Layer 3,rh,V2d,0.18230498173342913
+CLIP Text Model,Transformer Layer 3,rh,V3v,0.14289040962005894
+CLIP Text Model,Transformer Layer 3,rh,V3d,0.1895513200102737
+CLIP Text Model,Transformer Layer 3,rh,hV4,0.24433360505188945
+CLIP Text Model,Transformer Layer 3,rh,EBA,0.422944419388786
+CLIP Text Model,Transformer Layer 3,rh,FBA-1,0.2580744483109436
+CLIP Text Model,Transformer Layer 3,rh,FBA-2,0.40857372825641886
+CLIP Text Model,Transformer Layer 3,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 3,rh,OFA,0.2105018946829259
+CLIP Text Model,Transformer Layer 3,rh,FFA-1,0.3096693765785623
+CLIP Text Model,Transformer Layer 3,rh,FFA-2,0.49684657926253945
+CLIP Text Model,Transformer Layer 3,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 3,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 3,rh,OPA,0.3105288119139709
+CLIP Text Model,Transformer Layer 3,rh,PPA,0.3984441709030876
+CLIP Text Model,Transformer Layer 3,rh,RSC,0.42469808765021705
+CLIP Text Model,Transformer Layer 3,rh,OWFA,0.11438324530589311
+CLIP Text Model,Transformer Layer 3,rh,VWFA-1,0.36663728632777254
+CLIP Text Model,Transformer Layer 3,rh,VWFA-2,0.2784919396960136
+CLIP Text Model,Transformer Layer 3,rh,mfs-words,
+CLIP Text Model,Transformer Layer 3,rh,mTL-words,
+CLIP Text Model,Transformer Layer 3,rh,early,0.1350465699734772
+CLIP Text Model,Transformer Layer 3,rh,midventral,0.135351766133383
+CLIP Text Model,Transformer Layer 3,rh,midlateral,0.2621153249022412
+CLIP Text Model,Transformer Layer 3,rh,midparietal,0.2553692354642484
+CLIP Text Model,Transformer Layer 3,rh,ventral,0.3361339732448662
+CLIP Text Model,Transformer Layer 3,rh,lateral,0.38641301473805567
+CLIP Text Model,Transformer Layer 3,rh,parietal,0.2751427029436914
+CLIP Text Model,Transformer Layer 3,rh,All vertices,0.255079296451168
+CLIP Text Model,Transformer Layer 4,lh,V1v,0.1571526930471912
+CLIP Text Model,Transformer Layer 4,lh,V1d,0.16809799853956175
+CLIP Text Model,Transformer Layer 4,lh,V2v,0.15415604897760835
+CLIP Text Model,Transformer Layer 4,lh,V2d,0.15578779091188097
+CLIP Text Model,Transformer Layer 4,lh,V3v,0.15288934819334182
+CLIP Text Model,Transformer Layer 4,lh,V3d,0.1802752129841734
+CLIP Text Model,Transformer Layer 4,lh,hV4,0.18536500907306785
+CLIP Text Model,Transformer Layer 4,lh,EBA,0.44038182253035785
+CLIP Text Model,Transformer Layer 4,lh,FBA-1,0.37603075207678893
+CLIP Text Model,Transformer Layer 4,lh,FBA-2,
+CLIP Text Model,Transformer Layer 4,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 4,lh,OFA,0.177044355120589
+CLIP Text Model,Transformer Layer 4,lh,FFA-1,0.4230757104722622
+CLIP Text Model,Transformer Layer 4,lh,FFA-2,
+CLIP Text Model,Transformer Layer 4,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 4,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 4,lh,OPA,0.35153438792770675
+CLIP Text Model,Transformer Layer 4,lh,PPA,0.3717782901302343
+CLIP Text Model,Transformer Layer 4,lh,RSC,0.48214828348248184
+CLIP Text Model,Transformer Layer 4,lh,OWFA,0.1415332440938431
+CLIP Text Model,Transformer Layer 4,lh,VWFA-1,0.30077171948890546
+CLIP Text Model,Transformer Layer 4,lh,VWFA-2,0.2728680109508998
+CLIP Text Model,Transformer Layer 4,lh,mfs-words,0.2531873822840202
+CLIP Text Model,Transformer Layer 4,lh,mTL-words,
+CLIP Text Model,Transformer Layer 4,lh,early,0.14638830534201475
+CLIP Text Model,Transformer Layer 4,lh,midventral,0.20834139925427894
+CLIP Text Model,Transformer Layer 4,lh,midlateral,0.19305889557131495
+CLIP Text Model,Transformer Layer 4,lh,midparietal,0.2995212676918907
+CLIP Text Model,Transformer Layer 4,lh,ventral,0.31614423909008743
+CLIP Text Model,Transformer Layer 4,lh,lateral,0.4277674907793857
+CLIP Text Model,Transformer Layer 4,lh,parietal,0.3370646981508024
+CLIP Text Model,Transformer Layer 4,lh,All vertices,0.2683471724540238
+CLIP Text Model,Transformer Layer 4,rh,V1v,0.14897474613186565
+CLIP Text Model,Transformer Layer 4,rh,V1d,0.156866445688711
+CLIP Text Model,Transformer Layer 4,rh,V2v,0.15414019072757756
+CLIP Text Model,Transformer Layer 4,rh,V2d,0.1926227670034546
+CLIP Text Model,Transformer Layer 4,rh,V3v,0.15399263754716938
+CLIP Text Model,Transformer Layer 4,rh,V3d,0.20030090264364966
+CLIP Text Model,Transformer Layer 4,rh,hV4,0.25635537498860134
+CLIP Text Model,Transformer Layer 4,rh,EBA,0.4389591147535809
+CLIP Text Model,Transformer Layer 4,rh,FBA-1,0.2716486196789573
+CLIP Text Model,Transformer Layer 4,rh,FBA-2,0.4266495295139265
+CLIP Text Model,Transformer Layer 4,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 4,rh,OFA,0.22718982591121673
+CLIP Text Model,Transformer Layer 4,rh,FFA-1,0.3328601096591345
+CLIP Text Model,Transformer Layer 4,rh,FFA-2,0.5149227211434936
+CLIP Text Model,Transformer Layer 4,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 4,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 4,rh,OPA,0.32197061558904433
+CLIP Text Model,Transformer Layer 4,rh,PPA,0.41333787170817926
+CLIP Text Model,Transformer Layer 4,rh,RSC,0.4433622345595781
+CLIP Text Model,Transformer Layer 4,rh,OWFA,0.12316144233243982
+CLIP Text Model,Transformer Layer 4,rh,VWFA-1,0.38441240745047933
+CLIP Text Model,Transformer Layer 4,rh,VWFA-2,0.29600509415373144
+CLIP Text Model,Transformer Layer 4,rh,mfs-words,
+CLIP Text Model,Transformer Layer 4,rh,mTL-words,
+CLIP Text Model,Transformer Layer 4,rh,early,0.1462976898044256
+CLIP Text Model,Transformer Layer 4,rh,midventral,0.145272254928052
+CLIP Text Model,Transformer Layer 4,rh,midlateral,0.2719901768572108
+CLIP Text Model,Transformer Layer 4,rh,midparietal,0.26613013076131
+CLIP Text Model,Transformer Layer 4,rh,ventral,0.3506814003468069
+CLIP Text Model,Transformer Layer 4,rh,lateral,0.4024308112497344
+CLIP Text Model,Transformer Layer 4,rh,parietal,0.2885546440176406
+CLIP Text Model,Transformer Layer 4,rh,All vertices,0.2688138343582732
+CLIP Text Model,Transformer Layer 5,lh,V1v,0.16287015869512256
+CLIP Text Model,Transformer Layer 5,lh,V1d,0.17317919632493697
+CLIP Text Model,Transformer Layer 5,lh,V2v,0.15967285132739822
+CLIP Text Model,Transformer Layer 5,lh,V2d,0.16171222265431942
+CLIP Text Model,Transformer Layer 5,lh,V3v,0.15864307490217547
+CLIP Text Model,Transformer Layer 5,lh,V3d,0.18659879376034388
+CLIP Text Model,Transformer Layer 5,lh,hV4,0.1911286499096903
+CLIP Text Model,Transformer Layer 5,lh,EBA,0.4466754951275121
+CLIP Text Model,Transformer Layer 5,lh,FBA-1,0.37975197163757546
+CLIP Text Model,Transformer Layer 5,lh,FBA-2,
+CLIP Text Model,Transformer Layer 5,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 5,lh,OFA,0.18416809009991922
+CLIP Text Model,Transformer Layer 5,lh,FFA-1,0.4263053495724979
+CLIP Text Model,Transformer Layer 5,lh,FFA-2,
+CLIP Text Model,Transformer Layer 5,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 5,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 5,lh,OPA,0.3568191886162388
+CLIP Text Model,Transformer Layer 5,lh,PPA,0.3763503930831569
+CLIP Text Model,Transformer Layer 5,lh,RSC,0.48964065718992567
+CLIP Text Model,Transformer Layer 5,lh,OWFA,0.14849280409047166
+CLIP Text Model,Transformer Layer 5,lh,VWFA-1,0.30436071984745994
+CLIP Text Model,Transformer Layer 5,lh,VWFA-2,0.2748243837608605
+CLIP Text Model,Transformer Layer 5,lh,mfs-words,0.2547362476386499
+CLIP Text Model,Transformer Layer 5,lh,mTL-words,
+CLIP Text Model,Transformer Layer 5,lh,early,0.15144453514566528
+CLIP Text Model,Transformer Layer 5,lh,midventral,0.21496979210681572
+CLIP Text Model,Transformer Layer 5,lh,midlateral,0.1968669078994588
+CLIP Text Model,Transformer Layer 5,lh,midparietal,0.3041848747402325
+CLIP Text Model,Transformer Layer 5,lh,ventral,0.3201627364587754
+CLIP Text Model,Transformer Layer 5,lh,lateral,0.4338335320280513
+CLIP Text Model,Transformer Layer 5,lh,parietal,0.3408945452181537
+CLIP Text Model,Transformer Layer 5,lh,All vertices,0.27288985276311106
+CLIP Text Model,Transformer Layer 5,rh,V1v,0.15480557343604845
+CLIP Text Model,Transformer Layer 5,rh,V1d,0.1626853165317505
+CLIP Text Model,Transformer Layer 5,rh,V2v,0.1588260052298959
+CLIP Text Model,Transformer Layer 5,rh,V2d,0.19741520942179155
+CLIP Text Model,Transformer Layer 5,rh,V3v,0.15910462165714986
+CLIP Text Model,Transformer Layer 5,rh,V3d,0.20461190022444786
+CLIP Text Model,Transformer Layer 5,rh,hV4,0.2625568340162148
+CLIP Text Model,Transformer Layer 5,rh,EBA,0.4453056319297895
+CLIP Text Model,Transformer Layer 5,rh,FBA-1,0.27573545983627423
+CLIP Text Model,Transformer Layer 5,rh,FBA-2,0.4302905279983228
+CLIP Text Model,Transformer Layer 5,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 5,rh,OFA,0.23165083557956273
+CLIP Text Model,Transformer Layer 5,rh,FFA-1,0.3352277328335066
+CLIP Text Model,Transformer Layer 5,rh,FFA-2,0.5183941707890637
+CLIP Text Model,Transformer Layer 5,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 5,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 5,rh,OPA,0.3278053243124579
+CLIP Text Model,Transformer Layer 5,rh,PPA,0.4192917408845963
+CLIP Text Model,Transformer Layer 5,rh,RSC,0.45030606797805145
+CLIP Text Model,Transformer Layer 5,rh,OWFA,0.12606354823871474
+CLIP Text Model,Transformer Layer 5,rh,VWFA-1,0.390356392918368
+CLIP Text Model,Transformer Layer 5,rh,VWFA-2,0.3012140568372531
+CLIP Text Model,Transformer Layer 5,rh,mfs-words,
+CLIP Text Model,Transformer Layer 5,rh,mTL-words,
+CLIP Text Model,Transformer Layer 5,rh,early,0.15125090810100905
+CLIP Text Model,Transformer Layer 5,rh,midventral,0.1488542838878591
+CLIP Text Model,Transformer Layer 5,rh,midlateral,0.27674666517227187
+CLIP Text Model,Transformer Layer 5,rh,midparietal,0.27142617288645515
+CLIP Text Model,Transformer Layer 5,rh,ventral,0.3557037828984488
+CLIP Text Model,Transformer Layer 5,rh,lateral,0.4097510830335814
+CLIP Text Model,Transformer Layer 5,rh,parietal,0.2938217682288996
+CLIP Text Model,Transformer Layer 5,rh,All vertices,0.27407321860618544
+CLIP Text Model,Transformer Layer 6,lh,V1v,0.1662113534751223
+CLIP Text Model,Transformer Layer 6,lh,V1d,0.17703507591116938
+CLIP Text Model,Transformer Layer 6,lh,V2v,0.1670562075090956
+CLIP Text Model,Transformer Layer 6,lh,V2d,0.16518310453724122
+CLIP Text Model,Transformer Layer 6,lh,V3v,0.16544646033168667
+CLIP Text Model,Transformer Layer 6,lh,V3d,0.18901923303466966
+CLIP Text Model,Transformer Layer 6,lh,hV4,0.19294483886578137
+CLIP Text Model,Transformer Layer 6,lh,EBA,0.446900131845133
+CLIP Text Model,Transformer Layer 6,lh,FBA-1,0.38061429327252616
+CLIP Text Model,Transformer Layer 6,lh,FBA-2,
+CLIP Text Model,Transformer Layer 6,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 6,lh,OFA,0.18691952888460037
+CLIP Text Model,Transformer Layer 6,lh,FFA-1,0.4280084449742802
+CLIP Text Model,Transformer Layer 6,lh,FFA-2,
+CLIP Text Model,Transformer Layer 6,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 6,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 6,lh,OPA,0.35739436618297893
+CLIP Text Model,Transformer Layer 6,lh,PPA,0.37637567913800835
+CLIP Text Model,Transformer Layer 6,lh,RSC,0.4905253555704859
+CLIP Text Model,Transformer Layer 6,lh,OWFA,0.15446206416298017
+CLIP Text Model,Transformer Layer 6,lh,VWFA-1,0.30385538844991405
+CLIP Text Model,Transformer Layer 6,lh,VWFA-2,0.2761858518399317
+CLIP Text Model,Transformer Layer 6,lh,mfs-words,0.2577722373504171
+CLIP Text Model,Transformer Layer 6,lh,mTL-words,
+CLIP Text Model,Transformer Layer 6,lh,early,0.15609178104268714
+CLIP Text Model,Transformer Layer 6,lh,midventral,0.21496497084637115
+CLIP Text Model,Transformer Layer 6,lh,midlateral,0.19904809717951585
+CLIP Text Model,Transformer Layer 6,lh,midparietal,0.3053295851500516
+CLIP Text Model,Transformer Layer 6,lh,ventral,0.3209466641988546
+CLIP Text Model,Transformer Layer 6,lh,lateral,0.43468192601451644
+CLIP Text Model,Transformer Layer 6,lh,parietal,0.34111607241217456
+CLIP Text Model,Transformer Layer 6,lh,All vertices,0.27417004319391486
+CLIP Text Model,Transformer Layer 6,rh,V1v,0.15913470277545566
+CLIP Text Model,Transformer Layer 6,rh,V1d,0.16577387450870706
+CLIP Text Model,Transformer Layer 6,rh,V2v,0.1628976322265735
+CLIP Text Model,Transformer Layer 6,rh,V2d,0.197915607134449
+CLIP Text Model,Transformer Layer 6,rh,V3v,0.16096334024911046
+CLIP Text Model,Transformer Layer 6,rh,V3d,0.20659074291819557
+CLIP Text Model,Transformer Layer 6,rh,hV4,0.26367959150275294
+CLIP Text Model,Transformer Layer 6,rh,EBA,0.4456068820403449
+CLIP Text Model,Transformer Layer 6,rh,FBA-1,0.2773699842498148
+CLIP Text Model,Transformer Layer 6,rh,FBA-2,0.43045598556742964
+CLIP Text Model,Transformer Layer 6,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 6,rh,OFA,0.23348333646073496
+CLIP Text Model,Transformer Layer 6,rh,FFA-1,0.33658918889753187
+CLIP Text Model,Transformer Layer 6,rh,FFA-2,0.5186488863839147
+CLIP Text Model,Transformer Layer 6,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 6,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 6,rh,OPA,0.3281205659563594
+CLIP Text Model,Transformer Layer 6,rh,PPA,0.419990114163561
+CLIP Text Model,Transformer Layer 6,rh,RSC,0.4522536645677307
+CLIP Text Model,Transformer Layer 6,rh,OWFA,0.12979350980796792
+CLIP Text Model,Transformer Layer 6,rh,VWFA-1,0.39057531918893673
+CLIP Text Model,Transformer Layer 6,rh,VWFA-2,0.3022028951912722
+CLIP Text Model,Transformer Layer 6,rh,mfs-words,
+CLIP Text Model,Transformer Layer 6,rh,mTL-words,
+CLIP Text Model,Transformer Layer 6,rh,early,0.1545266372933716
+CLIP Text Model,Transformer Layer 6,rh,midventral,0.1504894450156805
+CLIP Text Model,Transformer Layer 6,rh,midlateral,0.27689266170419674
+CLIP Text Model,Transformer Layer 6,rh,midparietal,0.271933131564183
+CLIP Text Model,Transformer Layer 6,rh,ventral,0.35624643980099924
+CLIP Text Model,Transformer Layer 6,rh,lateral,0.41029474079508627
+CLIP Text Model,Transformer Layer 6,rh,parietal,0.2931371640731649
+CLIP Text Model,Transformer Layer 6,rh,All vertices,0.2750356987638251
+CLIP Text Model,Transformer Layer 7,lh,V1v,0.17182539262913077
+CLIP Text Model,Transformer Layer 7,lh,V1d,0.18275776819200681
+CLIP Text Model,Transformer Layer 7,lh,V2v,0.16979167041982224
+CLIP Text Model,Transformer Layer 7,lh,V2d,0.1673470278720715
+CLIP Text Model,Transformer Layer 7,lh,V3v,0.1676456045605918
+CLIP Text Model,Transformer Layer 7,lh,V3d,0.194626401727499
+CLIP Text Model,Transformer Layer 7,lh,hV4,0.1978144218451749
+CLIP Text Model,Transformer Layer 7,lh,EBA,0.4522018697361153
+CLIP Text Model,Transformer Layer 7,lh,FBA-1,0.38692346579697906
+CLIP Text Model,Transformer Layer 7,lh,FBA-2,
+CLIP Text Model,Transformer Layer 7,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 7,lh,OFA,0.19332807812628705
+CLIP Text Model,Transformer Layer 7,lh,FFA-1,0.432217322705631
+CLIP Text Model,Transformer Layer 7,lh,FFA-2,
+CLIP Text Model,Transformer Layer 7,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 7,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 7,lh,OPA,0.36380837103704994
+CLIP Text Model,Transformer Layer 7,lh,PPA,0.38426314175505055
+CLIP Text Model,Transformer Layer 7,lh,RSC,0.4977698841449074
+CLIP Text Model,Transformer Layer 7,lh,OWFA,0.16442828193240486
+CLIP Text Model,Transformer Layer 7,lh,VWFA-1,0.31339195226482164
+CLIP Text Model,Transformer Layer 7,lh,VWFA-2,0.284260492079276
+CLIP Text Model,Transformer Layer 7,lh,mfs-words,0.26683453720311373
+CLIP Text Model,Transformer Layer 7,lh,mTL-words,
+CLIP Text Model,Transformer Layer 7,lh,early,0.15996632676886013
+CLIP Text Model,Transformer Layer 7,lh,midventral,0.22075300451000807
+CLIP Text Model,Transformer Layer 7,lh,midlateral,0.2048622059023014
+CLIP Text Model,Transformer Layer 7,lh,midparietal,0.31130377429674577
+CLIP Text Model,Transformer Layer 7,lh,ventral,0.32822012052993155
+CLIP Text Model,Transformer Layer 7,lh,lateral,0.4407203806407466
+CLIP Text Model,Transformer Layer 7,lh,parietal,0.34833638771933007
+CLIP Text Model,Transformer Layer 7,lh,All vertices,0.28096543891196823
+CLIP Text Model,Transformer Layer 7,rh,V1v,0.16455915222353454
+CLIP Text Model,Transformer Layer 7,rh,V1d,0.17073449723874723
+CLIP Text Model,Transformer Layer 7,rh,V2v,0.1669914718940688
+CLIP Text Model,Transformer Layer 7,rh,V2d,0.20100192930983168
+CLIP Text Model,Transformer Layer 7,rh,V3v,0.16419304277355407
+CLIP Text Model,Transformer Layer 7,rh,V3d,0.21138588793519592
+CLIP Text Model,Transformer Layer 7,rh,hV4,0.2677907057192211
+CLIP Text Model,Transformer Layer 7,rh,EBA,0.45202813722750645
+CLIP Text Model,Transformer Layer 7,rh,FBA-1,0.2815901436965892
+CLIP Text Model,Transformer Layer 7,rh,FBA-2,0.4341570884072431
+CLIP Text Model,Transformer Layer 7,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 7,rh,OFA,0.23492303809892132
+CLIP Text Model,Transformer Layer 7,rh,FFA-1,0.3429308054619572
+CLIP Text Model,Transformer Layer 7,rh,FFA-2,0.5239520354516606
+CLIP Text Model,Transformer Layer 7,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 7,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 7,rh,OPA,0.3333673100884477
+CLIP Text Model,Transformer Layer 7,rh,PPA,0.4269400288549565
+CLIP Text Model,Transformer Layer 7,rh,RSC,0.45891963799567254
+CLIP Text Model,Transformer Layer 7,rh,OWFA,0.13497539107865414
+CLIP Text Model,Transformer Layer 7,rh,VWFA-1,0.39930893031197406
+CLIP Text Model,Transformer Layer 7,rh,VWFA-2,0.3087222159637696
+CLIP Text Model,Transformer Layer 7,rh,mfs-words,
+CLIP Text Model,Transformer Layer 7,rh,mTL-words,
+CLIP Text Model,Transformer Layer 7,rh,early,0.15974721439381867
+CLIP Text Model,Transformer Layer 7,rh,midventral,0.1561623053145919
+CLIP Text Model,Transformer Layer 7,rh,midlateral,0.2815427805408082
+CLIP Text Model,Transformer Layer 7,rh,midparietal,0.2763376947629246
+CLIP Text Model,Transformer Layer 7,rh,ventral,0.3629407474596053
+CLIP Text Model,Transformer Layer 7,rh,lateral,0.4169272874864447
+CLIP Text Model,Transformer Layer 7,rh,parietal,0.2998684845115057
+CLIP Text Model,Transformer Layer 7,rh,All vertices,0.2807671256100561
+CLIP Text Model,Transformer Layer 8,lh,V1v,0.17838590759058043
+CLIP Text Model,Transformer Layer 8,lh,V1d,0.18601228479473275
+CLIP Text Model,Transformer Layer 8,lh,V2v,0.1709032432356645
+CLIP Text Model,Transformer Layer 8,lh,V2d,0.16750784076965614
+CLIP Text Model,Transformer Layer 8,lh,V3v,0.1679614511062497
+CLIP Text Model,Transformer Layer 8,lh,V3d,0.19443860032714338
+CLIP Text Model,Transformer Layer 8,lh,hV4,0.1979862360795314
+CLIP Text Model,Transformer Layer 8,lh,EBA,0.4564565336714988
+CLIP Text Model,Transformer Layer 8,lh,FBA-1,0.3907534509915558
+CLIP Text Model,Transformer Layer 8,lh,FBA-2,
+CLIP Text Model,Transformer Layer 8,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 8,lh,OFA,0.19026243589354505
+CLIP Text Model,Transformer Layer 8,lh,FFA-1,0.43460712956111014
+CLIP Text Model,Transformer Layer 8,lh,FFA-2,
+CLIP Text Model,Transformer Layer 8,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 8,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 8,lh,OPA,0.3675493534324359
+CLIP Text Model,Transformer Layer 8,lh,PPA,0.3890822377683959
+CLIP Text Model,Transformer Layer 8,lh,RSC,0.5008804128230265
+CLIP Text Model,Transformer Layer 8,lh,OWFA,0.16019440790551742
+CLIP Text Model,Transformer Layer 8,lh,VWFA-1,0.3169094074661115
+CLIP Text Model,Transformer Layer 8,lh,VWFA-2,0.28726171920889937
+CLIP Text Model,Transformer Layer 8,lh,mfs-words,0.26971935702676986
+CLIP Text Model,Transformer Layer 8,lh,mTL-words,
+CLIP Text Model,Transformer Layer 8,lh,early,0.16208614064895058
+CLIP Text Model,Transformer Layer 8,lh,midventral,0.22160258610747494
+CLIP Text Model,Transformer Layer 8,lh,midlateral,0.2037097832938742
+CLIP Text Model,Transformer Layer 8,lh,midparietal,0.31411549432316455
+CLIP Text Model,Transformer Layer 8,lh,ventral,0.3315609785546644
+CLIP Text Model,Transformer Layer 8,lh,lateral,0.44460488389783837
+CLIP Text Model,Transformer Layer 8,lh,parietal,0.3525918878342017
+CLIP Text Model,Transformer Layer 8,lh,All vertices,0.28485970565660634
+CLIP Text Model,Transformer Layer 8,rh,V1v,0.17261990532926413
+CLIP Text Model,Transformer Layer 8,rh,V1d,0.1755624048791213
+CLIP Text Model,Transformer Layer 8,rh,V2v,0.17497569230748805
+CLIP Text Model,Transformer Layer 8,rh,V2d,0.20531718568686147
+CLIP Text Model,Transformer Layer 8,rh,V3v,0.16854133686552406
+CLIP Text Model,Transformer Layer 8,rh,V3d,0.21355160159944206
+CLIP Text Model,Transformer Layer 8,rh,hV4,0.27136619131500267
+CLIP Text Model,Transformer Layer 8,rh,EBA,0.45494976469472437
+CLIP Text Model,Transformer Layer 8,rh,FBA-1,0.28290178735390986
+CLIP Text Model,Transformer Layer 8,rh,FBA-2,0.43600733820938736
+CLIP Text Model,Transformer Layer 8,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 8,rh,OFA,0.2357160968065022
+CLIP Text Model,Transformer Layer 8,rh,FFA-1,0.3441415641181849
+CLIP Text Model,Transformer Layer 8,rh,FFA-2,0.5257122468121685
+CLIP Text Model,Transformer Layer 8,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 8,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 8,rh,OPA,0.33878741708786747
+CLIP Text Model,Transformer Layer 8,rh,PPA,0.4316621670962209
+CLIP Text Model,Transformer Layer 8,rh,RSC,0.4614353090886163
+CLIP Text Model,Transformer Layer 8,rh,OWFA,0.13384119695585983
+CLIP Text Model,Transformer Layer 8,rh,VWFA-1,0.4017056633694522
+CLIP Text Model,Transformer Layer 8,rh,VWFA-2,0.31327194079556886
+CLIP Text Model,Transformer Layer 8,rh,mfs-words,
+CLIP Text Model,Transformer Layer 8,rh,mTL-words,
+CLIP Text Model,Transformer Layer 8,rh,early,0.16435299701198136
+CLIP Text Model,Transformer Layer 8,rh,midventral,0.15581243395695493
+CLIP Text Model,Transformer Layer 8,rh,midlateral,0.28475911037961027
+CLIP Text Model,Transformer Layer 8,rh,midparietal,0.28130134013719815
+CLIP Text Model,Transformer Layer 8,rh,ventral,0.36714626383387294
+CLIP Text Model,Transformer Layer 8,rh,lateral,0.4192340948507696
+CLIP Text Model,Transformer Layer 8,rh,parietal,0.3067493305358553
+CLIP Text Model,Transformer Layer 8,rh,All vertices,0.2855353107545013
+CLIP Text Model,Transformer Layer 9,lh,V1v,0.18180430442576448
+CLIP Text Model,Transformer Layer 9,lh,V1d,0.18862048076888324
+CLIP Text Model,Transformer Layer 9,lh,V2v,0.17168929407189387
+CLIP Text Model,Transformer Layer 9,lh,V2d,0.16809391433260862
+CLIP Text Model,Transformer Layer 9,lh,V3v,0.17068461489901895
+CLIP Text Model,Transformer Layer 9,lh,V3d,0.19618377204755238
+CLIP Text Model,Transformer Layer 9,lh,hV4,0.19988354158329036
+CLIP Text Model,Transformer Layer 9,lh,EBA,0.46002899245042905
+CLIP Text Model,Transformer Layer 9,lh,FBA-1,0.39354869784001517
+CLIP Text Model,Transformer Layer 9,lh,FBA-2,
+CLIP Text Model,Transformer Layer 9,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 9,lh,OFA,0.19686066519408668
+CLIP Text Model,Transformer Layer 9,lh,FFA-1,0.43700535754636394
+CLIP Text Model,Transformer Layer 9,lh,FFA-2,
+CLIP Text Model,Transformer Layer 9,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 9,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 9,lh,OPA,0.3692540307438348
+CLIP Text Model,Transformer Layer 9,lh,PPA,0.3934898852090102
+CLIP Text Model,Transformer Layer 9,lh,RSC,0.503774394016073
+CLIP Text Model,Transformer Layer 9,lh,OWFA,0.16643338644292818
+CLIP Text Model,Transformer Layer 9,lh,VWFA-1,0.3228583233274962
+CLIP Text Model,Transformer Layer 9,lh,VWFA-2,0.2954908726620383
+CLIP Text Model,Transformer Layer 9,lh,mfs-words,0.27560919957684415
+CLIP Text Model,Transformer Layer 9,lh,mTL-words,
+CLIP Text Model,Transformer Layer 9,lh,early,0.16472731373720967
+CLIP Text Model,Transformer Layer 9,lh,midventral,0.22358699275578253
+CLIP Text Model,Transformer Layer 9,lh,midlateral,0.20640674698022177
+CLIP Text Model,Transformer Layer 9,lh,midparietal,0.31610849064710544
+CLIP Text Model,Transformer Layer 9,lh,ventral,0.3361400280023459
+CLIP Text Model,Transformer Layer 9,lh,lateral,0.4478644151213041
+CLIP Text Model,Transformer Layer 9,lh,parietal,0.35432061215078897
+CLIP Text Model,Transformer Layer 9,lh,All vertices,0.2876448732971798
+CLIP Text Model,Transformer Layer 9,rh,V1v,0.1761867055877736
+CLIP Text Model,Transformer Layer 9,rh,V1d,0.17737297349673864
+CLIP Text Model,Transformer Layer 9,rh,V2v,0.17645878494090486
+CLIP Text Model,Transformer Layer 9,rh,V2d,0.2049222298698895
+CLIP Text Model,Transformer Layer 9,rh,V3v,0.1688925813910131
+CLIP Text Model,Transformer Layer 9,rh,V3d,0.2141906367054114
+CLIP Text Model,Transformer Layer 9,rh,hV4,0.2738081228678539
+CLIP Text Model,Transformer Layer 9,rh,EBA,0.45823315890866817
+CLIP Text Model,Transformer Layer 9,rh,FBA-1,0.28644132012359597
+CLIP Text Model,Transformer Layer 9,rh,FBA-2,0.4414512876828568
+CLIP Text Model,Transformer Layer 9,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 9,rh,OFA,0.23963544460061934
+CLIP Text Model,Transformer Layer 9,rh,FFA-1,0.35086922945944166
+CLIP Text Model,Transformer Layer 9,rh,FFA-2,0.5291611098020523
+CLIP Text Model,Transformer Layer 9,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 9,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 9,rh,OPA,0.3398518417256431
+CLIP Text Model,Transformer Layer 9,rh,PPA,0.43596372631103936
+CLIP Text Model,Transformer Layer 9,rh,RSC,0.46387938359029
+CLIP Text Model,Transformer Layer 9,rh,OWFA,0.1391761637594548
+CLIP Text Model,Transformer Layer 9,rh,VWFA-1,0.4063891695441268
+CLIP Text Model,Transformer Layer 9,rh,VWFA-2,0.31916222760421215
+CLIP Text Model,Transformer Layer 9,rh,mfs-words,
+CLIP Text Model,Transformer Layer 9,rh,mTL-words,
+CLIP Text Model,Transformer Layer 9,rh,early,0.16622367681749342
+CLIP Text Model,Transformer Layer 9,rh,midventral,0.15972516264977
+CLIP Text Model,Transformer Layer 9,rh,midlateral,0.28655049063342924
+CLIP Text Model,Transformer Layer 9,rh,midparietal,0.2828715929334451
+CLIP Text Model,Transformer Layer 9,rh,ventral,0.371116572444857
+CLIP Text Model,Transformer Layer 9,rh,lateral,0.42362537974502185
+CLIP Text Model,Transformer Layer 9,rh,parietal,0.3083024149364797
+CLIP Text Model,Transformer Layer 9,rh,All vertices,0.28834569211855465
+CLIP Text Model,Transformer Layer 10,lh,V1v,0.1831508674320393
+CLIP Text Model,Transformer Layer 10,lh,V1d,0.1911819603317451
+CLIP Text Model,Transformer Layer 10,lh,V2v,0.17442220834621214
+CLIP Text Model,Transformer Layer 10,lh,V2d,0.171858369846959
+CLIP Text Model,Transformer Layer 10,lh,V3v,0.17111259596186465
+CLIP Text Model,Transformer Layer 10,lh,V3d,0.19800132505358203
+CLIP Text Model,Transformer Layer 10,lh,hV4,0.20371392538039665
+CLIP Text Model,Transformer Layer 10,lh,EBA,0.46356680396315403
+CLIP Text Model,Transformer Layer 10,lh,FBA-1,0.39695423082954195
+CLIP Text Model,Transformer Layer 10,lh,FBA-2,
+CLIP Text Model,Transformer Layer 10,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 10,lh,OFA,0.19849421150316413
+CLIP Text Model,Transformer Layer 10,lh,FFA-1,0.4389506348564544
+CLIP Text Model,Transformer Layer 10,lh,FFA-2,
+CLIP Text Model,Transformer Layer 10,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 10,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 10,lh,OPA,0.37487956614630824
+CLIP Text Model,Transformer Layer 10,lh,PPA,0.398436178450954
+CLIP Text Model,Transformer Layer 10,lh,RSC,0.5087801346598307
+CLIP Text Model,Transformer Layer 10,lh,OWFA,0.16847992299338566
+CLIP Text Model,Transformer Layer 10,lh,VWFA-1,0.32755562465099664
+CLIP Text Model,Transformer Layer 10,lh,VWFA-2,0.29586437259371856
+CLIP Text Model,Transformer Layer 10,lh,mfs-words,0.2795165159635003
+CLIP Text Model,Transformer Layer 10,lh,mTL-words,
+CLIP Text Model,Transformer Layer 10,lh,early,0.16635354999183818
+CLIP Text Model,Transformer Layer 10,lh,midventral,0.22862990385522347
+CLIP Text Model,Transformer Layer 10,lh,midlateral,0.20805846264226494
+CLIP Text Model,Transformer Layer 10,lh,midparietal,0.32053363067197954
+CLIP Text Model,Transformer Layer 10,lh,ventral,0.34012098352007825
+CLIP Text Model,Transformer Layer 10,lh,lateral,0.4515302146919863
+CLIP Text Model,Transformer Layer 10,lh,parietal,0.35769038601679504
+CLIP Text Model,Transformer Layer 10,lh,All vertices,0.29109826061204097
+CLIP Text Model,Transformer Layer 10,rh,V1v,0.17939588469832088
+CLIP Text Model,Transformer Layer 10,rh,V1d,0.1781178172797662
+CLIP Text Model,Transformer Layer 10,rh,V2v,0.17887712252979007
+CLIP Text Model,Transformer Layer 10,rh,V2d,0.20678431789694485
+CLIP Text Model,Transformer Layer 10,rh,V3v,0.17158139574186315
+CLIP Text Model,Transformer Layer 10,rh,V3d,0.21711819527552315
+CLIP Text Model,Transformer Layer 10,rh,hV4,0.27724502929280553
+CLIP Text Model,Transformer Layer 10,rh,EBA,0.46159619236769567
+CLIP Text Model,Transformer Layer 10,rh,FBA-1,0.2904306382593462
+CLIP Text Model,Transformer Layer 10,rh,FBA-2,0.4444846093331326
+CLIP Text Model,Transformer Layer 10,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 10,rh,OFA,0.24310642452196932
+CLIP Text Model,Transformer Layer 10,rh,FFA-1,0.3517848670837233
+CLIP Text Model,Transformer Layer 10,rh,FFA-2,0.5316833383190926
+CLIP Text Model,Transformer Layer 10,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 10,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 10,rh,OPA,0.34380160760190326
+CLIP Text Model,Transformer Layer 10,rh,PPA,0.4413781738527952
+CLIP Text Model,Transformer Layer 10,rh,RSC,0.4680440297822746
+CLIP Text Model,Transformer Layer 10,rh,OWFA,0.14150553345760583
+CLIP Text Model,Transformer Layer 10,rh,VWFA-1,0.40869547279782903
+CLIP Text Model,Transformer Layer 10,rh,VWFA-2,0.3226921684872859
+CLIP Text Model,Transformer Layer 10,rh,mfs-words,
+CLIP Text Model,Transformer Layer 10,rh,mTL-words,
+CLIP Text Model,Transformer Layer 10,rh,early,0.16862042419600942
+CLIP Text Model,Transformer Layer 10,rh,midventral,0.16182403764089381
+CLIP Text Model,Transformer Layer 10,rh,midlateral,0.29062914631112485
+CLIP Text Model,Transformer Layer 10,rh,midparietal,0.28767925581452847
+CLIP Text Model,Transformer Layer 10,rh,ventral,0.3739838883302343
+CLIP Text Model,Transformer Layer 10,rh,lateral,0.4265442471801582
+CLIP Text Model,Transformer Layer 10,rh,parietal,0.31092814775877414
+CLIP Text Model,Transformer Layer 10,rh,All vertices,0.29176213615542873
+CLIP Text Model,Transformer Layer 11,lh,V1v,0.19013088635179387
+CLIP Text Model,Transformer Layer 11,lh,V1d,0.19516796831023822
+CLIP Text Model,Transformer Layer 11,lh,V2v,0.17865409939830437
+CLIP Text Model,Transformer Layer 11,lh,V2d,0.17611392306112866
+CLIP Text Model,Transformer Layer 11,lh,V3v,0.17555347629157292
+CLIP Text Model,Transformer Layer 11,lh,V3d,0.20077169104647846
+CLIP Text Model,Transformer Layer 11,lh,hV4,0.20775401657760736
+CLIP Text Model,Transformer Layer 11,lh,EBA,0.46583683998578185
+CLIP Text Model,Transformer Layer 11,lh,FBA-1,0.39905946796946523
+CLIP Text Model,Transformer Layer 11,lh,FBA-2,
+CLIP Text Model,Transformer Layer 11,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 11,lh,OFA,0.2025223763499951
+CLIP Text Model,Transformer Layer 11,lh,FFA-1,0.44031234974976186
+CLIP Text Model,Transformer Layer 11,lh,FFA-2,
+CLIP Text Model,Transformer Layer 11,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 11,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 11,lh,OPA,0.3786933867347235
+CLIP Text Model,Transformer Layer 11,lh,PPA,0.40163609921313875
+CLIP Text Model,Transformer Layer 11,lh,RSC,0.5118269763129061
+CLIP Text Model,Transformer Layer 11,lh,OWFA,0.17252223402323785
+CLIP Text Model,Transformer Layer 11,lh,VWFA-1,0.33085919679347664
+CLIP Text Model,Transformer Layer 11,lh,VWFA-2,0.30335043109543436
+CLIP Text Model,Transformer Layer 11,lh,mfs-words,0.2827508509305676
+CLIP Text Model,Transformer Layer 11,lh,mTL-words,
+CLIP Text Model,Transformer Layer 11,lh,early,0.17068174351462853
+CLIP Text Model,Transformer Layer 11,lh,midventral,0.2310727995942295
+CLIP Text Model,Transformer Layer 11,lh,midlateral,0.20869678744148773
+CLIP Text Model,Transformer Layer 11,lh,midparietal,0.3240009855103864
+CLIP Text Model,Transformer Layer 11,lh,ventral,0.344538719204188
+CLIP Text Model,Transformer Layer 11,lh,lateral,0.45477436898269263
+CLIP Text Model,Transformer Layer 11,lh,parietal,0.3630045779873185
+CLIP Text Model,Transformer Layer 11,lh,All vertices,0.29500444984389557
+CLIP Text Model,Transformer Layer 11,rh,V1v,0.18165884681512878
+CLIP Text Model,Transformer Layer 11,rh,V1d,0.18282741344624287
+CLIP Text Model,Transformer Layer 11,rh,V2v,0.18015662483425415
+CLIP Text Model,Transformer Layer 11,rh,V2d,0.20888076389608648
+CLIP Text Model,Transformer Layer 11,rh,V3v,0.17267692759869258
+CLIP Text Model,Transformer Layer 11,rh,V3d,0.21913619406410711
+CLIP Text Model,Transformer Layer 11,rh,hV4,0.28029638906354654
+CLIP Text Model,Transformer Layer 11,rh,EBA,0.46549690333694055
+CLIP Text Model,Transformer Layer 11,rh,FBA-1,0.29400036893042336
+CLIP Text Model,Transformer Layer 11,rh,FBA-2,0.4476987609931725
+CLIP Text Model,Transformer Layer 11,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 11,rh,OFA,0.24731472289442652
+CLIP Text Model,Transformer Layer 11,rh,FFA-1,0.356204519689162
+CLIP Text Model,Transformer Layer 11,rh,FFA-2,0.5345561868328145
+CLIP Text Model,Transformer Layer 11,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 11,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 11,rh,OPA,0.3484480406679055
+CLIP Text Model,Transformer Layer 11,rh,PPA,0.4458504066412767
+CLIP Text Model,Transformer Layer 11,rh,RSC,0.4711274443756046
+CLIP Text Model,Transformer Layer 11,rh,OWFA,0.14493669072154364
+CLIP Text Model,Transformer Layer 11,rh,VWFA-1,0.41541197564782273
+CLIP Text Model,Transformer Layer 11,rh,VWFA-2,0.325023795295429
+CLIP Text Model,Transformer Layer 11,rh,mfs-words,
+CLIP Text Model,Transformer Layer 11,rh,mTL-words,
+CLIP Text Model,Transformer Layer 11,rh,early,0.17085722341505982
+CLIP Text Model,Transformer Layer 11,rh,midventral,0.16498101152596528
+CLIP Text Model,Transformer Layer 11,rh,midlateral,0.29232422760000304
+CLIP Text Model,Transformer Layer 11,rh,midparietal,0.29079838213927167
+CLIP Text Model,Transformer Layer 11,rh,ventral,0.379554190896523
+CLIP Text Model,Transformer Layer 11,rh,lateral,0.4297220606949277
+CLIP Text Model,Transformer Layer 11,rh,parietal,0.31639479137246374
+CLIP Text Model,Transformer Layer 11,rh,All vertices,0.2958029028712843
+CLIP Text Model,Transformer Layer 12,lh,V1v,0.19128476866376382
+CLIP Text Model,Transformer Layer 12,lh,V1d,0.19717125223607976
+CLIP Text Model,Transformer Layer 12,lh,V2v,0.17559664043643458
+CLIP Text Model,Transformer Layer 12,lh,V2d,0.1761246017315337
+CLIP Text Model,Transformer Layer 12,lh,V3v,0.1727233608436755
+CLIP Text Model,Transformer Layer 12,lh,V3d,0.20112915337757675
+CLIP Text Model,Transformer Layer 12,lh,hV4,0.20630694414041795
+CLIP Text Model,Transformer Layer 12,lh,EBA,0.4639175626658071
+CLIP Text Model,Transformer Layer 12,lh,FBA-1,0.3966618255868862
+CLIP Text Model,Transformer Layer 12,lh,FBA-2,
+CLIP Text Model,Transformer Layer 12,lh,mTL-bodies,
+CLIP Text Model,Transformer Layer 12,lh,OFA,0.1990474832338855
+CLIP Text Model,Transformer Layer 12,lh,FFA-1,0.43738449791651807
+CLIP Text Model,Transformer Layer 12,lh,FFA-2,
+CLIP Text Model,Transformer Layer 12,lh,mTL-faces,
+CLIP Text Model,Transformer Layer 12,lh,aTL-faces,
+CLIP Text Model,Transformer Layer 12,lh,OPA,0.3766600948580002
+CLIP Text Model,Transformer Layer 12,lh,PPA,0.39940212171750805
+CLIP Text Model,Transformer Layer 12,lh,RSC,0.5129410092287982
+CLIP Text Model,Transformer Layer 12,lh,OWFA,0.16754875316049492
+CLIP Text Model,Transformer Layer 12,lh,VWFA-1,0.3276741874921557
+CLIP Text Model,Transformer Layer 12,lh,VWFA-2,0.29957266310809705
+CLIP Text Model,Transformer Layer 12,lh,mfs-words,0.2805060477738757
+CLIP Text Model,Transformer Layer 12,lh,mTL-words,
+CLIP Text Model,Transformer Layer 12,lh,early,0.1706910469977132
+CLIP Text Model,Transformer Layer 12,lh,midventral,0.23007421278555948
+CLIP Text Model,Transformer Layer 12,lh,midlateral,0.2083184044079831
+CLIP Text Model,Transformer Layer 12,lh,midparietal,0.3224392049443244
+CLIP Text Model,Transformer Layer 12,lh,ventral,0.3423366323249371
+CLIP Text Model,Transformer Layer 12,lh,lateral,0.4521289360238851
+CLIP Text Model,Transformer Layer 12,lh,parietal,0.36110991311748414
+CLIP Text Model,Transformer Layer 12,lh,All vertices,0.2933635384383423
+CLIP Text Model,Transformer Layer 12,rh,V1v,0.18230679955048898
+CLIP Text Model,Transformer Layer 12,rh,V1d,0.1834582824037143
+CLIP Text Model,Transformer Layer 12,rh,V2v,0.1790414237364332
+CLIP Text Model,Transformer Layer 12,rh,V2d,0.20741610192664858
+CLIP Text Model,Transformer Layer 12,rh,V3v,0.1713216263619686
+CLIP Text Model,Transformer Layer 12,rh,V3d,0.21762108764616955
+CLIP Text Model,Transformer Layer 12,rh,hV4,0.2797466242520292
+CLIP Text Model,Transformer Layer 12,rh,EBA,0.4632481384807059
+CLIP Text Model,Transformer Layer 12,rh,FBA-1,0.2914149781934525
+CLIP Text Model,Transformer Layer 12,rh,FBA-2,0.44555765845150264
+CLIP Text Model,Transformer Layer 12,rh,mTL-bodies,
+CLIP Text Model,Transformer Layer 12,rh,OFA,0.2460280590838274
+CLIP Text Model,Transformer Layer 12,rh,FFA-1,0.35576770780000117
+CLIP Text Model,Transformer Layer 12,rh,FFA-2,0.5317451970356337
+CLIP Text Model,Transformer Layer 12,rh,mTL-faces,
+CLIP Text Model,Transformer Layer 12,rh,aTL-faces,
+CLIP Text Model,Transformer Layer 12,rh,OPA,0.34616925516412056
+CLIP Text Model,Transformer Layer 12,rh,PPA,0.4444765750019834
+CLIP Text Model,Transformer Layer 12,rh,RSC,0.4743599268738511
+CLIP Text Model,Transformer Layer 12,rh,OWFA,0.14395611766746874
+CLIP Text Model,Transformer Layer 12,rh,VWFA-1,0.4116298341327013
+CLIP Text Model,Transformer Layer 12,rh,VWFA-2,0.3217496221698558
+CLIP Text Model,Transformer Layer 12,rh,mfs-words,
+CLIP Text Model,Transformer Layer 12,rh,mTL-words,
+CLIP Text Model,Transformer Layer 12,rh,early,0.17072058116420744
+CLIP Text Model,Transformer Layer 12,rh,midventral,0.16386200589155467
+CLIP Text Model,Transformer Layer 12,rh,midlateral,0.2897018141469774
+CLIP Text Model,Transformer Layer 12,rh,midparietal,0.28821296331586166
+CLIP Text Model,Transformer Layer 12,rh,ventral,0.3774895272037758
+CLIP Text Model,Transformer Layer 12,rh,lateral,0.42870982668620533
+CLIP Text Model,Transformer Layer 12,rh,parietal,0.3150667668022656
+CLIP Text Model,Transformer Layer 12,rh,All vertices,0.29384793809382936
+CLIP Text Model,Final Layer,lh,V1v,0.19293402136562027
+CLIP Text Model,Final Layer,lh,V1d,0.1962135940221567
+CLIP Text Model,Final Layer,lh,V2v,0.1771739006840859
+CLIP Text Model,Final Layer,lh,V2d,0.17556314800161416
+CLIP Text Model,Final Layer,lh,V3v,0.17431392760898717
+CLIP Text Model,Final Layer,lh,V3d,0.20115106715502434
+CLIP Text Model,Final Layer,lh,hV4,0.206194675477767
+CLIP Text Model,Final Layer,lh,EBA,0.4645917804379626
+CLIP Text Model,Final Layer,lh,FBA-1,0.3975727046675278
+CLIP Text Model,Final Layer,lh,FBA-2,
+CLIP Text Model,Final Layer,lh,mTL-bodies,
+CLIP Text Model,Final Layer,lh,OFA,0.2000894769830832
+CLIP Text Model,Final Layer,lh,FFA-1,0.43838699374625195
+CLIP Text Model,Final Layer,lh,FFA-2,
+CLIP Text Model,Final Layer,lh,mTL-faces,
+CLIP Text Model,Final Layer,lh,aTL-faces,
+CLIP Text Model,Final Layer,lh,OPA,0.3777863399889067
+CLIP Text Model,Final Layer,lh,PPA,0.40089603368577215
+CLIP Text Model,Final Layer,lh,RSC,0.51349238973272
+CLIP Text Model,Final Layer,lh,OWFA,0.16896217956345141
+CLIP Text Model,Final Layer,lh,VWFA-1,0.32889963186756066
+CLIP Text Model,Final Layer,lh,VWFA-2,0.29995200230746255
+CLIP Text Model,Final Layer,lh,mfs-words,0.2799866375512568
+CLIP Text Model,Final Layer,lh,mTL-words,
+CLIP Text Model,Final Layer,lh,early,0.17045485543616803
+CLIP Text Model,Final Layer,lh,midventral,0.2303113156674972
+CLIP Text Model,Final Layer,lh,midlateral,0.20837054197437854
+CLIP Text Model,Final Layer,lh,midparietal,0.32451003521482114
+CLIP Text Model,Final Layer,lh,ventral,0.3433626935720769
+CLIP Text Model,Final Layer,lh,lateral,0.4528792795726277
+CLIP Text Model,Final Layer,lh,parietal,0.36141908868679345
+CLIP Text Model,Final Layer,lh,All vertices,0.2941315078827782
+CLIP Text Model,Final Layer,rh,V1v,0.18391118917379667
+CLIP Text Model,Final Layer,rh,V1d,0.18400064949812617
+CLIP Text Model,Final Layer,rh,V2v,0.18121455855383606
+CLIP Text Model,Final Layer,rh,V2d,0.20793753832001693
+CLIP Text Model,Final Layer,rh,V3v,0.17365718534173294
+CLIP Text Model,Final Layer,rh,V3d,0.21864447341436263
+CLIP Text Model,Final Layer,rh,hV4,0.27973652462793985
+CLIP Text Model,Final Layer,rh,EBA,0.46396423316031465
+CLIP Text Model,Final Layer,rh,FBA-1,0.29083663735408466
+CLIP Text Model,Final Layer,rh,FBA-2,0.44565114175070675
+CLIP Text Model,Final Layer,rh,mTL-bodies,
+CLIP Text Model,Final Layer,rh,OFA,0.24691616289094162
+CLIP Text Model,Final Layer,rh,FFA-1,0.35586740877806794
+CLIP Text Model,Final Layer,rh,FFA-2,0.5325715676399263
+CLIP Text Model,Final Layer,rh,mTL-faces,
+CLIP Text Model,Final Layer,rh,aTL-faces,
+CLIP Text Model,Final Layer,rh,OPA,0.3467892093095945
+CLIP Text Model,Final Layer,rh,PPA,0.4448985324680058
+CLIP Text Model,Final Layer,rh,RSC,0.47405599951150434
+CLIP Text Model,Final Layer,rh,OWFA,0.14473067014427404
+CLIP Text Model,Final Layer,rh,VWFA-1,0.4126148568426605
+CLIP Text Model,Final Layer,rh,VWFA-2,0.3227985828333731
+CLIP Text Model,Final Layer,rh,mfs-words,
+CLIP Text Model,Final Layer,rh,mTL-words,
+CLIP Text Model,Final Layer,rh,early,0.17192833236891827
+CLIP Text Model,Final Layer,rh,midventral,0.16444424147186168
+CLIP Text Model,Final Layer,rh,midlateral,0.2904734842092805
+CLIP Text Model,Final Layer,rh,midparietal,0.2887133212288119
+CLIP Text Model,Final Layer,rh,ventral,0.3783201705543866
+CLIP Text Model,Final Layer,rh,lateral,0.43035794853943726
+CLIP Text Model,Final Layer,rh,parietal,0.31581452042895247
+CLIP Text Model,Final Layer,rh,All vertices,0.2944166540450411
