@@ -1,0 +1,1 @@
+CLIP Vision, Layer 4+8, PCA 200, Linear regression, 8-fold cross validation
