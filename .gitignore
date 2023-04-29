@@ -1,5 +1,6 @@
 # ignore venv
 /.conda
+
 # ignore data folder
 /data/algonauts_2023_challenge_data
 /data/README.txt
@@ -8,6 +9,9 @@
 
 # ignore submission files
 /submissions
+
+# ignore layer activations
+/plots/layer_act
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

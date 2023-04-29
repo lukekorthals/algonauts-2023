@@ -1,0 +1,1 @@
+CLIP Vision + Text Model, Embedding layer and first 4 Transformer Layers, Combined PCA 200, Single layer linear regression, 8-fold cross validation

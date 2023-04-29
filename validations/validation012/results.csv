@@ -1,0 +1,897 @@
+model,layer,hemisphere,roi,correlation
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,V1v,0.47898916477319614
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,V1d,0.5033042141034357
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,V2v,0.370281614504255
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,V2d,0.3751625824908339
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,V3v,0.3288169317744892
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,V3d,0.33976489167532353
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,hV4,0.2668108755725297
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,EBA,0.17193498035453594
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,FBA-1,0.1434229966133351
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,OFA,0.2261862777211439
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,FFA-1,0.17461300425477647
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,OPA,0.1926443012680133
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,PPA,0.16848690507513214
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,RSC,0.2394321001083073
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,OWFA,0.2537221481226465
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,VWFA-1,0.11200277793655654
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,VWFA-2,0.09217534519440594
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,mfs-words,0.0833572193951484
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,early,0.3371055851784879
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,midventral,0.27470113856653783
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,midlateral,0.23132592506251726
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,midparietal,0.21658147962819108
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,ventral,0.1320831580669449
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,lateral,0.16395588404282857
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,parietal,0.14176777452983763
+CLIP Vision + Text (Combined PCA),Embedding Layer,lh,All vertices,0.18585609557469818
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,V1v,0.45232420733745327
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,V1d,0.46260889448637343
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,V2v,0.4096849864730602
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,V2d,0.41491266667722
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,V3v,0.3403095664976111
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,V3d,0.3582760590780464
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,hV4,0.2803907718632291
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,EBA,0.15237813682680096
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,FBA-1,0.22529569921953466
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,FBA-2,0.15502681343295047
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,OFA,0.21222349554334052
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,FFA-1,0.14169945067573267
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,FFA-2,0.1869075651287687
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,OPA,0.17081518663222006
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,PPA,0.19096592566613632
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,RSC,0.22668288634511913
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,OWFA,0.2138738925921383
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,VWFA-1,0.13399554254802537
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,VWFA-2,0.07551190550969417
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,early,0.36435651200325603
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,midventral,0.2694440046570482
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,midlateral,0.19529136937594196
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,midparietal,0.19702101946276757
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,ventral,0.15897985228810202
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,lateral,0.14593427784361832
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,parietal,0.12735348675793068
+CLIP Vision + Text (Combined PCA),Embedding Layer,rh,All vertices,0.1791496512385604
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,V1v,0.5573335177311546
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,V1d,0.5847821784265084
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,V2v,0.46738352477837675
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,V2d,0.47644899297269244
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,V3v,0.444005138212885
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,V3d,0.4437758536597055
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,hV4,0.36369525456792245
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,EBA,0.37743328310043955
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,FBA-1,0.30708697274984437
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,OFA,0.3372656810220346
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,FFA-1,0.3778000933051687
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,OPA,0.3565197030162105
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,PPA,0.34154200015273267
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,RSC,0.44311039006910885
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,OWFA,0.34072795811677303
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,VWFA-1,0.2587868099881676
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,VWFA-2,0.218180634833417
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,mfs-words,0.19999795911920895
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,early,0.4373736004638028
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,midventral,0.37771071806428597
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,midlateral,0.3465527886857439
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,midparietal,0.37484443665572353
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,ventral,0.28091784763812144
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,lateral,0.3671622360125879
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,parietal,0.3171427086223666
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,lh,All vertices,0.3509624694993186
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,V1v,0.5207857304465094
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,V1d,0.5399166892606774
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,V2v,0.5079881326099978
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,V2d,0.5125131019588527
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,V3v,0.4412269671865244
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,V3d,0.45721500373315055
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,hV4,0.3958524469055138
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,EBA,0.376240470653303
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,FBA-1,0.3276613703806247
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,FBA-2,0.3591842873357874
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,OFA,0.30497525872901804
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,FFA-1,0.30151327884460977
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,FFA-2,0.44373366687051186
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,OPA,0.3324049829860084
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,PPA,0.39172821678777886
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,RSC,0.4191874511540782
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,OWFA,0.3110331829173345
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,VWFA-1,0.32659937008164663
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,VWFA-2,0.2393955326923104
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,early,0.45711614325819927
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,midventral,0.37590575671824766
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,midlateral,0.35395568255298954
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,midparietal,0.34984623489415667
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,ventral,0.33908842488303204
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,lateral,0.347229115410555
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,parietal,0.27087794998646403
+CLIP Vision + Text (Combined PCA),Transformer Layer 1,rh,All vertices,0.3548340565646154
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,V1v,0.6101254588953146
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,V1d,0.6256839711863833
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,V2v,0.5261547548367069
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,V2d,0.5353585663543057
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,V3v,0.5143004172983554
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,V3d,0.5048867536783451
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,hV4,0.4010366689388325
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,EBA,0.4166708268033825
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,FBA-1,0.3365352191468727
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,OFA,0.3791264693102252
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,FFA-1,0.40960382938845563
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,OPA,0.39030466355867355
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,PPA,0.3712652273166745
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,RSC,0.48805868729883006
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,OWFA,0.38638909140831595
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,VWFA-1,0.2890757562675984
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,VWFA-2,0.23863496943250823
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,mfs-words,0.2191719397350718
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,early,0.4973741384712614
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,midventral,0.41647590360645287
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,midlateral,0.3837272706980002
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,midparietal,0.4064614667092024
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,ventral,0.30724658943795924
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,lateral,0.403946921889461
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,parietal,0.3487330215019946
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,lh,All vertices,0.38589818842472945
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,V1v,0.5761532495604897
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,V1d,0.591132640624316
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,V2v,0.5653858960544411
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,V2d,0.5599667377179366
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,V3v,0.501991971015924
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,V3d,0.5031606240447869
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,hV4,0.4308578698758635
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,EBA,0.41482228586201264
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,FBA-1,0.34597855286912077
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,FBA-2,0.39726253590605404
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,OFA,0.3391671984081646
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,FFA-1,0.33501107381245854
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,FFA-2,0.4869359729122302
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,OPA,0.36009841439957485
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,PPA,0.4286345995307966
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,RSC,0.46228900433081827
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,OWFA,0.345826953001138
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,VWFA-1,0.36242304371618816
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,VWFA-2,0.27375825567555995
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,early,0.5027579704770575
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,midventral,0.4189375228495399
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,midlateral,0.38419140347481445
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,midparietal,0.3805963647814155
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,ventral,0.3715345386051486
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,lateral,0.3837015242937664
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,parietal,0.2995941673236436
+CLIP Vision + Text (Combined PCA),Transformer Layer 2,rh,All vertices,0.38945607203416227
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,V1v,0.5983141678011898
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,V1d,0.6206091285430438
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,V2v,0.5336039342344012
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,V2d,0.5437844536398194
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,V3v,0.5252203223862771
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,V3d,0.5157443312711393
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,hV4,0.4258162751379776
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,EBA,0.4493109960104796
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,FBA-1,0.3606512812447551
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,OFA,0.40511523807745453
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,FFA-1,0.43784861779629536
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,OPA,0.4188188489005974
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,PPA,0.39718532527534317
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,RSC,0.5194917522357729
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,OWFA,0.41877341106209187
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,VWFA-1,0.3183953744721539
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,VWFA-2,0.2600137525060467
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,mfs-words,0.24214890289991672
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,early,0.5030309627935536
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,midventral,0.4383756592539497
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,midlateral,0.4136327548661143
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,midparietal,0.44187319015811855
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,ventral,0.32964472731162475
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,lateral,0.433564125319998
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,parietal,0.3735247323182816
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,lh,All vertices,0.4107407945863365
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,V1v,0.5641216941043546
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,V1d,0.5814100628678611
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,V2v,0.5831130302917646
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,V2d,0.5752582022889002
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,V3v,0.5185172135198711
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,V3d,0.5224730645964761
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,hV4,0.4590515772724276
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,EBA,0.44338099404095366
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,FBA-1,0.36507710457409326
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,FBA-2,0.42434815389075364
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,OFA,0.3742380090158494
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,FFA-1,0.36329727825416264
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,FFA-2,0.5183036538851716
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,OPA,0.38562952175851156
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,PPA,0.4578646404439315
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,RSC,0.49014564012374895
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,OWFA,0.3720591644986491
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,VWFA-1,0.393290365797838
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,VWFA-2,0.29589635448714724
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,early,0.5146860729234979
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,midventral,0.4372514228487019
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,midlateral,0.4098829395485404
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,midparietal,0.41133409991128556
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,ventral,0.3973206316362564
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,lateral,0.40953858286967115
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,parietal,0.3225924248057068
+CLIP Vision + Text (Combined PCA),Transformer Layer 3,rh,All vertices,0.4133427851818335
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,V1v,0.5836604419612121
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,V1d,0.6092675677215911
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,V2v,0.5336542861127951
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,V2d,0.5434444201491418
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,V3v,0.5261631522536112
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,V3d,0.5203830420129572
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,hV4,0.44270235074162356
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,EBA,0.4861971936203232
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,FBA-1,0.3976200494658521
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,OFA,0.4273240150285346
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,FFA-1,0.4726624954063873
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,OPA,0.4494284460931349
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,PPA,0.4261167658990586
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,RSC,0.5585975914601834
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,OWFA,0.4415972715817807
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,VWFA-1,0.3630820298123262
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,VWFA-2,0.2928845794472615
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,mfs-words,0.28604377344687215
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,early,0.4997823795380245
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,midventral,0.454594210723582
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,midlateral,0.4336527015822304
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,midparietal,0.4704165137569132
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,ventral,0.3628321395729525
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,lateral,0.4713015082696941
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,parietal,0.40680779258640254
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,lh,All vertices,0.4378263079660334
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,V1v,0.551525904084655
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,V1d,0.5651318281857096
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,V2v,0.5854501743910874
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,V2d,0.5771916466596463
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,V3v,0.5255507608376189
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,V3d,0.5314161329537709
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,hV4,0.48267851159725206
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,EBA,0.48039583564305544
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,FBA-1,0.3864805812585196
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,FBA-2,0.4632427873717009
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,OFA,0.4072718739402859
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,FFA-1,0.4060867571545546
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,FFA-2,0.5564607604082388
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,OPA,0.41363188839236914
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,PPA,0.49019889864298133
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,RSC,0.5247894852120604
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,OWFA,0.3933499611015277
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,VWFA-1,0.4355644447965969
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,VWFA-2,0.33540643364006784
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,early,0.5138027838609919
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,midventral,0.4505910141380495
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,midlateral,0.4342266334140654
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,midparietal,0.4373196987450374
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,ventral,0.4297050536119278
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,lateral,0.44430358828497213
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,parietal,0.3512527444402888
+CLIP Vision + Text (Combined PCA),Transformer Layer 4,rh,All vertices,0.4389123538476521
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,V1v,0.5638642770532513
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,V1d,0.5922790868156538
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,V2v,0.5283057015359286
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,V2d,0.536026225725476
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,V3v,0.5198298789999256
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,V3d,0.5165466679112827
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,hV4,0.4550263847532654
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,EBA,0.5047591544840522
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,FBA-1,0.4111017091799575
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,OFA,0.43716668150578425
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,FFA-1,0.48863604233107294
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,OPA,0.4684626138815888
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,PPA,0.4399689307175292
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,RSC,0.5757736249564711
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,OWFA,0.45136534867900613
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,VWFA-1,0.3837709676221603
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,VWFA-2,0.3075582178270533
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,mfs-words,0.30591388950603526
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,early,0.49242497116291184
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,midventral,0.46685745472428275
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,midlateral,0.4441149215071247
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,midparietal,0.4912059746707427
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,ventral,0.37768268694878104
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,lateral,0.4896155338474284
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,parietal,0.42601344786300904
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,lh,All vertices,0.45101599392324887
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,V1v,0.5307740372843615
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,V1d,0.5418292005647011
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,V2v,0.5763044479033752
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,V2d,0.5701447385714223
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,V3v,0.523182374400065
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,V3d,0.530239494353667
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,hV4,0.4982028627236142
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,EBA,0.4987436115711992
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,FBA-1,0.3981736097547013
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,FBA-2,0.4784729870895821
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,OFA,0.42567968024807984
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,FFA-1,0.4227665050853126
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,FFA-2,0.5705457874603781
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,OPA,0.43236159309949873
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,PPA,0.5074241327390634
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,RSC,0.5417126598697314
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,OWFA,0.40181172807672416
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,VWFA-1,0.4587049565998227
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,VWFA-2,0.35217560936187325
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,early,0.5044335986966526
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,midventral,0.4537876219329497
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,midlateral,0.44653969028194035
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,midparietal,0.45521152189790964
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,ventral,0.4470082016284411
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,lateral,0.4645428521453191
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,parietal,0.3713629391528807
+CLIP Vision + Text (Combined PCA),Transformer Layer 5,rh,All vertices,0.4518331552405406
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,V1v,0.5406111602651671
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,V1d,0.5710834220750408
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,V2v,0.5146841866627206
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,V2d,0.5214111862130709
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,V3v,0.5033072431888319
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,V3d,0.5085312464061676
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,hV4,0.4578865656601101
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,EBA,0.5161664998896619
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,FBA-1,0.423676114699097
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,OFA,0.43544622578385306
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,FFA-1,0.4993567341230398
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,OPA,0.48292806284539835
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,PPA,0.4528986343279495
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,RSC,0.5880246961982374
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,OWFA,0.4522729182250461
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,VWFA-1,0.4012967564473012
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,VWFA-2,0.3187295709390189
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,mfs-words,0.32134200759025283
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,early,0.47847611316192823
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,midventral,0.4701500845216185
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,midlateral,0.4472941234402887
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,midparietal,0.5055841865910874
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,ventral,0.39108397690098223
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,lateral,0.5020712726739425
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,parietal,0.440643214433459
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,lh,All vertices,0.457938752652066
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,V1v,0.5089672831967952
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,V1d,0.5155477022458923
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,V2v,0.5609144395086345
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,V2d,0.5573429523175085
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,V3v,0.5149348464236537
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,V3d,0.5250719512085349
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,hV4,0.5098965961248654
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,EBA,0.5123618258413334
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,FBA-1,0.40922189046641055
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,FBA-2,0.4900879631390279
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,OFA,0.4353740089245083
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,FFA-1,0.43733808759287196
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,FFA-2,0.5821127583183393
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,OPA,0.4468098594212151
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,PPA,0.5221259151218449
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,RSC,0.554025121333594
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,OWFA,0.4011389487255964
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,VWFA-1,0.47765984281187424
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,VWFA-2,0.3684188166066762
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,early,0.489722712429061
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,midventral,0.44814809308984027
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,midlateral,0.45477358445564864
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,midparietal,0.4698615779333335
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,ventral,0.4619359127450982
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,lateral,0.4763869885145866
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,parietal,0.38703137562303824
+CLIP Vision + Text (Combined PCA),Transformer Layer 6,rh,All vertices,0.45924592284578564
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,V1v,0.5182738526863704
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,V1d,0.5493996414339104
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,V2v,0.5006640606518185
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,V2d,0.5060598276971489
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,V3v,0.4891218923209179
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,V3d,0.4950517851174455
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,hV4,0.45367871722525127
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,EBA,0.5248256672091547
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,FBA-1,0.43263702683865446
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,OFA,0.4278902551912601
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,FFA-1,0.5041854109415942
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,OPA,0.4927217540690854
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,PPA,0.46425908263887794
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,RSC,0.5994900484781285
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,OWFA,0.4487164474938114
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,VWFA-1,0.4143616230492795
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,VWFA-2,0.32982500609343346
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,mfs-words,0.336031651937819
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,early,0.462514639287374
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,midventral,0.46685227269079044
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,midlateral,0.4463880084781809
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,midparietal,0.5131597945772703
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,ventral,0.40142716047437027
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,lateral,0.5127459807022892
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,parietal,0.4517680030564169
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,lh,All vertices,0.4614094490324299
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,V1v,0.4902049204452114
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,V1d,0.4923041509534932
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,V2v,0.5470337386860961
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,V2d,0.5452797080846066
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,V3v,0.5064084611275194
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,V3d,0.5160707339489977
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,hV4,0.5089163466509748
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,EBA,0.522909773691445
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,FBA-1,0.4141495944474217
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,FBA-2,0.4970304095245008
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,OFA,0.43471104742615874
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,FFA-1,0.4459552406681284
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,FFA-2,0.5896621725776174
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,OPA,0.4560529807517861
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,PPA,0.5345563225963652
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,RSC,0.5656397115543621
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,OWFA,0.3937627020168631
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,VWFA-1,0.4917868952186101
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,VWFA-2,0.37998335025906355
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,early,0.4751066241109978
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,midventral,0.43794130428622396
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,midlateral,0.45765161619764694
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,midparietal,0.478198758356325
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,ventral,0.47248239714542845
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,lateral,0.4871170888683448
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,parietal,0.39851751990998363
+CLIP Vision + Text (Combined PCA),Transformer Layer 7,rh,All vertices,0.46292189878785206
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,V1v,0.49192247596412625
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,V1d,0.5240373062369282
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,V2v,0.4843351419623005
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,V2d,0.4912177030174466
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,V3v,0.4706921198273277
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,V3d,0.4820716128891205
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,hV4,0.44628385433505224
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,EBA,0.5311009028893807
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,FBA-1,0.43991922007483103
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,OFA,0.4218457730712332
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,FFA-1,0.5071501978308433
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,OPA,0.49651859295604506
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,PPA,0.46850062736779996
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,RSC,0.60250279116901
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,OWFA,0.444334273667386
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,VWFA-1,0.42087136543475034
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,VWFA-2,0.33540187549599176
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,mfs-words,0.3403401771129786
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,early,0.4452333113754456
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,midventral,0.45765540891835554
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,midlateral,0.4440649658669212
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,midparietal,0.5143031934862082
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,ventral,0.40634278201629126
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,lateral,0.5196312521028001
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,parietal,0.4581506654051757
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,lh,All vertices,0.46002031272701766
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,V1v,0.4662639167399089
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,V1d,0.4668882423373987
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,V2v,0.5302297415617976
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,V2d,0.5317936962047453
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,V3v,0.492995202938186
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,V3d,0.5048720946742495
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,hV4,0.505935228472734
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,EBA,0.5305920753183319
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,FBA-1,0.4107742754800352
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,FBA-2,0.5014059131908015
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,OFA,0.4344769224128101
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,FFA-1,0.4531452401185719
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,FFA-2,0.5950823484973461
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,OPA,0.46000184623739493
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,PPA,0.541064281029966
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,RSC,0.5688089665607796
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,OWFA,0.3873246104458583
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,VWFA-1,0.5002033441834877
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,VWFA-2,0.3880385768768439
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,early,0.4570964552219563
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,midventral,0.42567074546727535
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,midlateral,0.4555472502120681
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,midparietal,0.4805987022181375
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,ventral,0.4769207769551069
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,lateral,0.49500819716406447
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,parietal,0.40431016789248897
+CLIP Vision + Text (Combined PCA),Transformer Layer 8,rh,All vertices,0.46155890498762997
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,V1v,0.45963575884539415
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,V1d,0.493101362158823
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,V2v,0.45676871986721046
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,V2d,0.4638445732911898
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,V3v,0.4383818823726698
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,V3d,0.4524069080058719
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,hV4,0.42388376297922437
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,EBA,0.5323197523097873
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,FBA-1,0.4432294473959152
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,OFA,0.4002193556891967
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,FFA-1,0.5053424164917778
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,OPA,0.4946551459763646
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,PPA,0.46972363398845135
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,RSC,0.6024401919428337
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,OWFA,0.4226404372945567
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,VWFA-1,0.41884361597899034
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,VWFA-2,0.33860901690541795
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,mfs-words,0.3400454421124016
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,early,0.41654817542616795
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,midventral,0.4345153410671627
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,midlateral,0.4235620596990559
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,midparietal,0.5064139848482261
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,ventral,0.4080531191520378
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,lateral,0.5214791894251357
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,parietal,0.45584915687588257
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,lh,All vertices,0.4500890603721561
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,V1v,0.436969246761188
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,V1d,0.4332877556033533
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,V2v,0.5016180912897538
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,V2d,0.5102077994990097
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,V3v,0.47123793748013676
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,V3d,0.48513519407632416
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,hV4,0.4912243379349184
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,EBA,0.5311531182311913
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,FBA-1,0.4057645727778672
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,FBA-2,0.5040695665079102
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,OFA,0.4168435707381245
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,FFA-1,0.44991726703007073
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,FFA-2,0.5969009386202069
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,OPA,0.45596533840880893
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,PPA,0.5410852528875061
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,RSC,0.5685284281004646
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,OWFA,0.36533041582424686
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,VWFA-1,0.49746173926100334
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,VWFA-2,0.39014679964554944
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,early,0.4300894677462665
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,midventral,0.40027778728277436
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,midlateral,0.4417777442312227
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,midparietal,0.47482223644523086
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,ventral,0.4755539158753077
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,lateral,0.49705088599495284
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,parietal,0.40398234246960646
+CLIP Vision + Text (Combined PCA),Transformer Layer 9,rh,All vertices,0.4522118526178911
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,V1v,0.43433643887414125
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,V1d,0.4631303845092427
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,V2v,0.4412559791920772
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,V2d,0.4468117333864368
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,V3v,0.42008716242529065
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,V3d,0.44082418562718734
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,hV4,0.4102472842836535
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,EBA,0.530684242696706
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,FBA-1,0.44434113792829427
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,OFA,0.3887993568170677
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,FFA-1,0.5015487241770821
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,OPA,0.48794010197456017
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,PPA,0.46673601837600975
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,RSC,0.5945200388223133
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,OWFA,0.4093264715479165
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,VWFA-1,0.41560783233723464
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,VWFA-2,0.3401804722043702
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,mfs-words,0.33434396977556213
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,early,0.3993348442275637
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,midventral,0.4227316966604532
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,midlateral,0.41425544862575175
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,midparietal,0.4965527165785286
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,ventral,0.4059774464330898
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,lateral,0.5201505131077275
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,parietal,0.4475493666388946
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,lh,All vertices,0.4414524276046462
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,V1v,0.4167295985352022
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,V1d,0.41306181183571095
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,V2v,0.4876291077138731
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,V2d,0.489596932282888
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,V3v,0.45828293741974907
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,V3d,0.47208171535352567
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,hV4,0.4804523441930618
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,EBA,0.5313406864419803
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,FBA-1,0.3989330686688038
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,FBA-2,0.5015581482769539
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,OFA,0.4081815240912316
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,FFA-1,0.44370024466323676
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,FFA-2,0.594613520379873
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,OPA,0.45057880625561797
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,PPA,0.5368395371618073
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,RSC,0.5603333443881706
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,OWFA,0.35555918610030807
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,VWFA-1,0.49508730064639245
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,VWFA-2,0.38677320560981715
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,early,0.4124761925107854
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,midventral,0.3866202385506662
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,midlateral,0.4335935123491249
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,midparietal,0.46256583591886524
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,ventral,0.4702998771821213
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,lateral,0.4982179000519165
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,parietal,0.39735712775258725
+CLIP Vision + Text (Combined PCA),Transformer Layer 10,rh,All vertices,0.4441582478339153
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,V1v,0.41179168309343056
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,V1d,0.4433020165131185
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,V2v,0.422971786293463
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,V2d,0.437039854931738
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,V3v,0.40052197844102566
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,V3d,0.42512000567826147
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,hV4,0.399183052641212
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,EBA,0.5266389572544476
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,FBA-1,0.4429970305380457
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,OFA,0.3784923517459537
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,FFA-1,0.4983456664136723
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,OPA,0.48503200488574866
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,PPA,0.46437996641876494
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,RSC,0.5922785108036832
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,OWFA,0.3992539407111168
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,VWFA-1,0.409606766210066
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,VWFA-2,0.3378146157077794
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,mfs-words,0.33242422899190227
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,early,0.3815581908910505
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,midventral,0.41108935293144006
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,midlateral,0.4004667795488305
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,midparietal,0.489345309909991
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,ventral,0.40347524549547764
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,lateral,0.5167320624282163
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,parietal,0.4459238863549121
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,lh,All vertices,0.43348352328967454
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,V1v,0.39787954516763196
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,V1d,0.39642355215690744
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,V2v,0.47016596818370493
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,V2d,0.47902411983991333
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,V3v,0.44517908181384114
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,V3d,0.4593252839003437
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,hV4,0.47212360269025555
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,EBA,0.5267973674522164
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,FBA-1,0.3946029577991474
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,FBA-2,0.5038559071011992
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,OFA,0.3966965503736017
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,FFA-1,0.43905336426797464
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,FFA-2,0.5929840093013286
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,OPA,0.4468449530675984
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,PPA,0.5320905024244695
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,RSC,0.5573769271215409
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,OWFA,0.34527464757875004
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,VWFA-1,0.4899520432007372
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,VWFA-2,0.3862409315283922
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,early,0.397881683896789
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,midventral,0.37429047553277395
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,midlateral,0.42627352288632125
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,midparietal,0.4553255971219554
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,ventral,0.46560075899188436
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,lateral,0.4946941587310594
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,parietal,0.3936546927465626
+CLIP Vision + Text (Combined PCA),Transformer Layer 11,rh,All vertices,0.43671630003154144
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,V1v,0.3941369502131298
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,V1d,0.4263657832022715
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,V2v,0.4111522525425096
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,V2d,0.42279498000997673
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,V3v,0.3881028447316399
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,V3d,0.41142311621308836
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,hV4,0.38720399511033815
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,EBA,0.5208066955828058
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,FBA-1,0.4386260534939534
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,OFA,0.36674591391562683
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,FFA-1,0.49193348353757044
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,OPA,0.4775083058635288
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,PPA,0.45935225774717314
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,RSC,0.5888298540966547
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,OWFA,0.3874125750470086
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,VWFA-1,0.40007531095928983
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,VWFA-2,0.3331535450230543
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,mfs-words,0.32546634887426507
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,early,0.36877087622784194
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,midventral,0.3988021741130545
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,midlateral,0.3879181549185242
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,midparietal,0.47963797513057876
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,ventral,0.3980168479379803
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,lateral,0.5107086701718416
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,parietal,0.43855227649188155
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,lh,All vertices,0.42418634964421664
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,V1v,0.385130315354659
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,V1d,0.3812538647340536
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,V2v,0.4555697154849074
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,V2d,0.46392141988294133
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,V3v,0.4308829734236775
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,V3d,0.4463372968195029
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,hV4,0.45955733942248955
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,EBA,0.5216506728193897
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,FBA-1,0.38740319489867847
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,FBA-2,0.4988227721822279
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,OFA,0.38314612383039093
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,FFA-1,0.43154658343515606
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,FFA-2,0.5884092683544243
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,OPA,0.4388770154475534
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,PPA,0.5264229190964762
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,RSC,0.552570005244516
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,OWFA,0.33495646929663314
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,VWFA-1,0.4856177705622709
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,VWFA-2,0.3821576925016989
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,early,0.3845364387989754
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,midventral,0.3633038479429991
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,midlateral,0.4156411824586065
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,midparietal,0.4466743108226029
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,ventral,0.4598113962697221
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,lateral,0.48917243387426773
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,parietal,0.3877920896618375
+CLIP Vision + Text (Combined PCA),Transformer Layer 12,rh,All vertices,0.42794997539630025
+CLIP Vision + Text (Combined PCA),Final Layer,lh,V1v,0.3269914844253704
+CLIP Vision + Text (Combined PCA),Final Layer,lh,V1d,0.3439797520725455
+CLIP Vision + Text (Combined PCA),Final Layer,lh,V2v,0.34039996825417673
+CLIP Vision + Text (Combined PCA),Final Layer,lh,V2d,0.33499145719041007
+CLIP Vision + Text (Combined PCA),Final Layer,lh,V3v,0.3102439789657633
+CLIP Vision + Text (Combined PCA),Final Layer,lh,V3d,0.33030418444168225
+CLIP Vision + Text (Combined PCA),Final Layer,lh,hV4,0.32117217377229224
+CLIP Vision + Text (Combined PCA),Final Layer,lh,EBA,0.500379972648668
+CLIP Vision + Text (Combined PCA),Final Layer,lh,FBA-1,0.42236492225259487
+CLIP Vision + Text (Combined PCA),Final Layer,lh,FBA-2,
+CLIP Vision + Text (Combined PCA),Final Layer,lh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Final Layer,lh,OFA,0.3012569379413408
+CLIP Vision + Text (Combined PCA),Final Layer,lh,FFA-1,0.4743931783857318
+CLIP Vision + Text (Combined PCA),Final Layer,lh,FFA-2,
+CLIP Vision + Text (Combined PCA),Final Layer,lh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Final Layer,lh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Final Layer,lh,OPA,0.44590129129226697
+CLIP Vision + Text (Combined PCA),Final Layer,lh,PPA,0.4377454460242686
+CLIP Vision + Text (Combined PCA),Final Layer,lh,RSC,0.5672127968881989
+CLIP Vision + Text (Combined PCA),Final Layer,lh,OWFA,0.3068795903152333
+CLIP Vision + Text (Combined PCA),Final Layer,lh,VWFA-1,0.3624186320718721
+CLIP Vision + Text (Combined PCA),Final Layer,lh,VWFA-2,0.3197228244622921
+CLIP Vision + Text (Combined PCA),Final Layer,lh,mfs-words,0.30376694297929463
+CLIP Vision + Text (Combined PCA),Final Layer,lh,mTL-words,
+CLIP Vision + Text (Combined PCA),Final Layer,lh,early,0.29534260545950325
+CLIP Vision + Text (Combined PCA),Final Layer,lh,midventral,0.3364918827691691
+CLIP Vision + Text (Combined PCA),Final Layer,lh,midlateral,0.31634412191140154
+CLIP Vision + Text (Combined PCA),Final Layer,lh,midparietal,0.4311246074773657
+CLIP Vision + Text (Combined PCA),Final Layer,lh,ventral,0.3743717755913363
+CLIP Vision + Text (Combined PCA),Final Layer,lh,lateral,0.489676757036166
+CLIP Vision + Text (Combined PCA),Final Layer,lh,parietal,0.4092511647185063
+CLIP Vision + Text (Combined PCA),Final Layer,lh,All vertices,0.3820529918865286
+CLIP Vision + Text (Combined PCA),Final Layer,rh,V1v,0.3167414638705398
+CLIP Vision + Text (Combined PCA),Final Layer,rh,V1d,0.29937084650353396
+CLIP Vision + Text (Combined PCA),Final Layer,rh,V2v,0.368937081217751
+CLIP Vision + Text (Combined PCA),Final Layer,rh,V2d,0.3683187722024443
+CLIP Vision + Text (Combined PCA),Final Layer,rh,V3v,0.3454912849964554
+CLIP Vision + Text (Combined PCA),Final Layer,rh,V3d,0.37349905722434046
+CLIP Vision + Text (Combined PCA),Final Layer,rh,hV4,0.40919976676381914
+CLIP Vision + Text (Combined PCA),Final Layer,rh,EBA,0.5011067170964902
+CLIP Vision + Text (Combined PCA),Final Layer,rh,FBA-1,0.3567069503015587
+CLIP Vision + Text (Combined PCA),Final Layer,rh,FBA-2,0.48344010722805975
+CLIP Vision + Text (Combined PCA),Final Layer,rh,mTL-bodies,
+CLIP Vision + Text (Combined PCA),Final Layer,rh,OFA,0.32626632751534734
+CLIP Vision + Text (Combined PCA),Final Layer,rh,FFA-1,0.4058248383780659
+CLIP Vision + Text (Combined PCA),Final Layer,rh,FFA-2,0.5740210417226516
+CLIP Vision + Text (Combined PCA),Final Layer,rh,mTL-faces,
+CLIP Vision + Text (Combined PCA),Final Layer,rh,aTL-faces,
+CLIP Vision + Text (Combined PCA),Final Layer,rh,OPA,0.40692856308742203
+CLIP Vision + Text (Combined PCA),Final Layer,rh,PPA,0.4969943864769756
+CLIP Vision + Text (Combined PCA),Final Layer,rh,RSC,0.5302814562649079
+CLIP Vision + Text (Combined PCA),Final Layer,rh,OWFA,0.26325694814796335
+CLIP Vision + Text (Combined PCA),Final Layer,rh,VWFA-1,0.4580646976359404
+CLIP Vision + Text (Combined PCA),Final Layer,rh,VWFA-2,0.3571263775417367
+CLIP Vision + Text (Combined PCA),Final Layer,rh,mfs-words,
+CLIP Vision + Text (Combined PCA),Final Layer,rh,mTL-words,
+CLIP Vision + Text (Combined PCA),Final Layer,rh,early,0.30815032178708146
+CLIP Vision + Text (Combined PCA),Final Layer,rh,midventral,0.2854789737448283
+CLIP Vision + Text (Combined PCA),Final Layer,rh,midlateral,0.3615006795132113
+CLIP Vision + Text (Combined PCA),Final Layer,rh,midparietal,0.4073552983341433
+CLIP Vision + Text (Combined PCA),Final Layer,rh,ventral,0.4293964936270112
+CLIP Vision + Text (Combined PCA),Final Layer,rh,lateral,0.4679867156815627
+CLIP Vision + Text (Combined PCA),Final Layer,rh,parietal,0.35815075856687395
+CLIP Vision + Text (Combined PCA),Final Layer,rh,All vertices,0.38375647071639934
