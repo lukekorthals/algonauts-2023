@@ -1,0 +1,1 @@
+CLIP Vision + Text Model, Vision Layer 4+8 & Text Layer 11, Combiend PCA 200, Linear regression, 8-fold cross validation
