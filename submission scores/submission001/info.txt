@@ -1,0 +1,4 @@
+CLIP Vision Model, Final Layer, PCA 100, Linear regression
+
+
+- No validation just wanted to familarize ourselves with the submission system. 

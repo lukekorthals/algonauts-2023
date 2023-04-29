@@ -1,0 +1,3 @@
+CLIP Vision Model, Layer 7, PCA 200, Linear regression
+
+- Layer 7 performed best on average for all ROI

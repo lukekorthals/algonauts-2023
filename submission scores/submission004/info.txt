@@ -1,0 +1,6 @@
+CLIP Vision Model, Layer 4 and Layer 8, PCA 200, Linear regression
+
+- Layer 4 performed best for V1, V2, V3
+- Layer 8 performed best for the remaining ROI (when taking out V1, V2, V3)
+
+- Hidden States were hstacked and flattened across dimensions 2 and 3 before fitting a PCA with 200 components on the flattened array
