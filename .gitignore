@@ -12,9 +12,6 @@
 # ignore submission files
 /submissions
 
-# ignore layer activations
-/plots/layer_act
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
