@@ -11,7 +11,7 @@
 /submissions
 
 # ignore layer activations
-/plots/layer_act
+/plots
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
