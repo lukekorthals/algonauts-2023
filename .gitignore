@@ -10,9 +10,6 @@
 # ignore submission files
 /submissions
 
-# ignore layer activations
-/plots
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
