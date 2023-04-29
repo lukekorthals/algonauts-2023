@@ -6,6 +6,8 @@
 /data/README.txt
 /data/training_fmri
 /data/training_images
+/data/features
+/data/test_imgs
 
 # ignore submission files
 /submissions
